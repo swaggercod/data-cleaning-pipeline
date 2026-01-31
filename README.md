@@ -186,7 +186,7 @@ This project demonstrates:
 
 **Your Name**
 - GitHub: [@swaggercod](https://github.com/swaggercod)
-- LinkedIn: [yusuf-ozturk](https://www.linkedin.com/in/yusuf-ozturk-561880367/)
+- LinkedIn: [Yusuf-Ozturk](https://www.linkedin.com/in/yusuf-ozturk-561880367/)
 
 ## 📄 License
 
