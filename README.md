@@ -185,8 +185,8 @@ This project demonstrates:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@swaggercod](https://github.com/swaggercod)
+- LinkedIn: [yusuf ozturk](https://linkedin.com/in/yourprofile)
 
 ## 📄 License
 
