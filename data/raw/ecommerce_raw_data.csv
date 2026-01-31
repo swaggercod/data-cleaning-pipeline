@@ -1,0 +1,1051 @@
+order_id,customer_name,email,category,price,quantity,order_date,payment_status,customer_rating
+1522,Emma Wilson,bob@email.com,Electronics,459.1512655621916,2,15-03-2024,,1
+1738,Maria Garcia,john@email.com,clothing,149.2943055344832,1,2023-11-20,,5
+1741,Emma Wilson,,Home & Garden,36.62269706322287,8,2023-11-20,,2
+1661,Michael Brown  ,maria@email.com,,75.87321340997971,7,2023-11-20,Pending,1
+1412,Michael Brown  ,alice@invalid,clothing,248.95686362441955,4,2024-01-01,,5
+1679,jane smith,alice@invalid,,386.7721632327441,2,2023-11-20,failed,1
+1627,Maria Garcia,john@email.com,ELECTRONICS,433.1382860321271,8,2024/02/20,pending,5
+1514,,not-an-email,Home & Garden,339.7536449732719,3,2026-12-31,Failed,4
+1860,Emma Wilson,bob@email.com,clothing,450.29469629067125,9,,,2
+1137,John Doe,alice@invalid,electronics,43.789428014646376,6,2024/02/20,Unknown,1
+1812,ALICE WONG,,electronics,359.47137280848267,8,2023-11-20,failed,5
+1077,  Bob Johnson  ,bob@email.com,Home & Garden,414.27421098823044,9,,Unknown,5
+1637,John Doe,john@email.com,home & garden,434.1328013560306,5,,Refunded,5
+1974,ALICE WONG,jane@email.com,Home & Garden,,,2026-12-31,paid,
+1939,,maria@email.com,clothing,103.15274839402653,9,,Failed,5
+1900,ALICE WONG,john@email.com,,82.17849169669547,4,2024-01-15,pending,5
+1281,  Bob Johnson  ,jane@email.com,Books,274.9889399429168,6,2024-02-14,Refunded,2
+1884,Michael Brown  ,,Books,314.9826843673384,1,15-03-2024,Unknown,2
+1762,jane smith,maria@email.com,,222.57053559249948,5,2024/02/20,Pending,3
+1320,,,Books,159.60223158139834,9,15-03-2024,PAID,5
+1550,Emma Wilson,maria@email.com,books,347.25437553231615,8,,Paid,2
+1175,Michael Brown  ,jane@email.com,electronics,181.2581223225412,1,2023-11-20,Refunded,2
+1372,Michael Brown  ,bob@email.com,clothing,452.4185476440737,4,2024-01-01,paid,3
+1528,jane smith,,ELECTRONICS,355.73707269547407,9,2024-02-14,PAID,2
+1211,Emma Wilson,jane@email.com,electronics,264.4990711569293,1,2024-02-14,,5
+1236,  Bob Johnson  ,maria@email.com,,293.02074928176717,8,2024-02-14,Refunded,5
+1102,jane smith,john@email.com,,421.50311996145246,9,2024-01-01,paid,2
+1987,  Bob Johnson  ,maria@email.com,clothing,,,2024-02-14,paid,
+1903,,not-an-email,electronics,229.35997845110498,5,2024/02/20,Unknown,3
+1948,Michael Brown  ,alice@invalid,Home & Garden,243.6810521693053,8,15-03-2024,Unknown,4
+1347,ALICE WONG,,electronics,430.5874216315692,4,,failed,2
+1140,John Doe,bob@email.com,Books,138.23578503059392,7,2024-01-15,pending,3
+1622,jane smith,,Electronics,472.58062597444496,7,2024-01-15,paid,1
+1500,  Bob Johnson  ,maria@email.com,Books,15.736239258142993,9,2026-12-31,Failed,2
+1371,  Bob Johnson  ,jane@email.com,books,33.58998962939319,8,2024-01-01,PAID,5
+1199,Maria Garcia,john@email.com,Books,277.26161600938366,3,2024-01-01,Failed,5
+1688,Maria Garcia,alice@invalid,books,209.48217967155753,6,2024/02/20,,2
+1585,,jane@email.com,Clothing,158.14329218223193,1,2024-01-15,,1
+1902,  Bob Johnson  ,bob@email.com,books,319.15167721229005,4,2024-01-01,PAID,4
+1060,Maria Garcia,alice@invalid,ELECTRONICS,350.8528917834354,2,2024/02/20,Failed,2
+1329,Michael Brown  ,alice@invalid,Electronics,335.8426027032377,7,2023-11-20,failed,3
+1097,jane smith,,electronics,216.41154611409527,7,2026-12-31,PAID,2
+1313,  Bob Johnson  ,maria@email.com,clothing,429.3112568638353,6,2026-12-31,,4
+1975,  Bob Johnson  ,maria@email.com,Home & Garden,,,2026-12-31,Pending,
+1300,Michael Brown  ,maria@email.com,Home & Garden,329.0623165920203,4,2024-01-15,PAID,4
+1278,,john@email.com,Electronics,101.83185260781529,6,2024-02-14,Unknown,2
+1925,John Doe,not-an-email,Electronics,128.56879385535223,1,2023-11-20,PAID,1
+1602,Michael Brown  ,bob@email.com,home & garden,315.4689194981257,8,2026-12-31,Paid,4
+1440,ALICE WONG,maria@email.com,,403.2669829941083,5,15-03-2024,pending,1
+1838,Maria Garcia,maria@email.com,clothing,389.25577529485366,9,15-03-2024,Unknown,2
+1571,,john@email.com,Clothing,415.08660627332887,5,2024-02-14,Pending,1
+1880,Maria Garcia,jane@email.com,,189.18356664807195,8,2024-02-14,pending,2
+1262,,john@email.com,Electronics,483.8920414769935,6,,Refunded,2
+1579,jane smith,maria@email.com,Electronics,85.53107115745868,1,2026-12-31,Pending,3
+1024,Michael Brown  ,jane@email.com,clothing,88.43510112774077,6,2023-11-20,Failed,2
+1031,Maria Garcia,john@email.com,books,206.73221477203126,3,2024-02-14,Refunded,4
+1618,Michael Brown  ,john@email.com,electronics,71.16219884375568,9,2024-01-01,paid,5
+1011,ALICE WONG,bob@email.com,Clothing,114.62056949222924,2,2023-11-20,Unknown,2
+1222,ALICE WONG,not-an-email,Electronics,237.32637463804306,3,2024-01-15,Failed,5
+1821,Emma Wilson,alice@invalid,Home & Garden,419.38531061367524,3,2026-12-31,paid,1
+1297,,bob@email.com,Books,180.49129167526164,9,2023-11-20,Unknown,3
+1055,Emma Wilson,john@email.com,ELECTRONICS,363.81475971934117,1,15-03-2024,PAID,2
+1543,ALICE WONG,not-an-email,electronics,162.49657258106285,7,,Failed,2
+1210,Maria Garcia,john@email.com,,380.80823778743115,5,2026-12-31,PAID,4
+1605,Emma Wilson,bob@email.com,,108.64293283299229,4,2024-01-01,,2
+1693,Maria Garcia,jane@email.com,electronics,474.36713272259067,4,15-03-2024,Failed,5
+1663,Maria Garcia,jane@email.com,Electronics,185.77060745433658,2,15-03-2024,paid,5
+1867,Maria Garcia,alice@invalid,Clothing,121.83532811191256,1,2026-12-31,Refunded,1
+1071,jane smith,not-an-email,Clothing,285.12744810016665,4,2024-02-14,Failed,4
+1544,jane smith,alice@invalid,clothing,341.7891134701546,4,2026-12-31,Pending,2
+1108,  Bob Johnson  ,bob@email.com,,173.91053148354675,5,,pending,1
+1494,,maria@email.com,Home & Garden,364.746797178386,1,15-03-2024,Failed,1
+1591,John Doe,john@email.com,home & garden,483.5445190745396,1,2023-11-20,Refunded,4
+1742,,alice@invalid,Electronics,376.836164721838,5,2024-01-15,failed,4
+1293,John Doe,john@email.com,Clothing,414.7293242269601,8,2024/02/20,PAID,4
+1290,Michael Brown  ,bob@email.com,electronics,174.25194321172765,6,,paid,1
+1653,Emma Wilson,not-an-email,,260.1119196120738,3,15-03-2024,,4
+1040,ALICE WONG,not-an-email,electronics,281.57099192468814,5,2024-01-15,Unknown,2
+1590,Maria Garcia,alice@invalid,,142.4213691440838,3,2024-01-01,paid,1
+1308,jane smith,maria@email.com,ELECTRONICS,341.32700541696266,9,2026-12-31,failed,3
+1680,jane smith,maria@email.com,electronics,332.6848526783269,8,2024-01-15,Failed,3
+1067,  Bob Johnson  ,jane@email.com,Books,245.67671604420065,1,2024-01-15,failed,5
+1276,  Bob Johnson  ,jane@email.com,home & garden,48.909226475084466,6,2023-11-20,failed,4
+1068,John Doe,alice@invalid,,324.73950769356145,7,2026-12-31,Refunded,2
+1319,Emma Wilson,,ELECTRONICS,261.20082904107596,4,2023-11-20,failed,2
+1549,jane smith,alice@invalid,clothing,232.4607943860963,2,,failed,4
+1999,Michael Brown  ,maria@email.com,books,6858.6203320117165,0,2024-02-14,failed,
+1715,Michael Brown  ,alice@invalid,Clothing,323.83326066616354,2,15-03-2024,Paid,1
+1754,jane smith,jane@email.com,clothing,164.97237336736032,4,15-03-2024,PAID,2
+1328,Emma Wilson,not-an-email,Books,396.33919819411636,8,,failed,5
+1383,  Bob Johnson  ,not-an-email,Books,497.76438293374184,8,2024/02/20,paid,2
+1452,,alice@invalid,Clothing,251.83782436665814,6,2026-12-31,,4
+1523,,not-an-email,Electronics,221.18275805151515,3,2024-02-14,Unknown,1
+1219,Michael Brown  ,maria@email.com,Clothing,388.2861133918953,1,2024-01-01,Failed,4
+1788,Michael Brown  ,not-an-email,ELECTRONICS,222.03727664965527,6,2024-01-01,PAID,2
+1437,Michael Brown  ,john@email.com,Clothing,27.99346762540236,9,2024-01-15,Refunded,2
+1765,Maria Garcia,not-an-email,ELECTRONICS,482.398424080153,8,2024-01-15,Refunded,3
+1089,  Bob Johnson  ,not-an-email,,222.6694894251989,3,15-03-2024,Pending,1
+1064,John Doe,bob@email.com,,399.1566923257713,3,2024-02-14,Pending,5
+1827,ALICE WONG,bob@email.com,books,212.68491071013128,8,2026-12-31,failed,2
+1717,ALICE WONG,bob@email.com,,305.71161706125554,6,15-03-2024,,2
+1352,John Doe,jane@email.com,Books,18.823212244222702,7,2024-01-15,Paid,2
+1937,,not-an-email,home & garden,314.9481996624506,6,2024/02/20,Refunded,1
+1257,Emma Wilson,not-an-email,,311.496032284203,9,2024/02/20,,5
+1636,jane smith,bob@email.com,books,292.8667243242343,4,2024/02/20,Unknown,3
+1645,Michael Brown  ,alice@invalid,electronics,63.53946305171449,2,2024-02-14,failed,1
+1555,John Doe,jane@email.com,ELECTRONICS,482.36852948767415,5,2026-12-31,Unknown,2
+1960,Emma Wilson,maria@email.com,electronics,-12.952237262728723,-2,2024-01-01,Unknown,8
+1169,Emma Wilson,alice@invalid,Books,330.5455547222965,4,,Failed,5
+1918,  Bob Johnson  ,john@email.com,Home & Garden,228.31540298352655,8,2024-02-14,Paid,4
+1529,jane smith,alice@invalid,,347.31845906114705,8,2024-02-14,Unknown,2
+1824,Emma Wilson,alice@invalid,Electronics,175.29931791685541,7,2024-01-15,Paid,3
+1986,jane smith,alice@invalid,,,,2024/02/20,Failed,
+1817,John Doe,,ELECTRONICS,38.465056519371394,6,2024-01-01,failed,1
+1087,,jane@email.com,,82.25173808607913,4,2024/02/20,Pending,5
+1433,Maria Garcia,maria@email.com,Electronics,263.12058793852975,7,2024/02/20,Unknown,4
+1185,John Doe,bob@email.com,Books,364.17900857215704,9,2024-02-14,pending,5
+1979,Michael Brown  ,not-an-email,electronics,,,2023-11-20,,
+1535,ALICE WONG,bob@email.com,home & garden,179.47995576155014,2,2026-12-31,PAID,4
+1295,jane smith,bob@email.com,Books,127.53831525041292,4,,Paid,1
+1893,John Doe,john@email.com,Home & Garden,179.14418216216316,2,,Paid,1
+1426,Maria Garcia,jane@email.com,Electronics,486.0510185415148,3,15-03-2024,failed,5
+1714,  Bob Johnson  ,bob@email.com,clothing,120.75420892983986,6,2026-12-31,Failed,3
+1261,John Doe,john@email.com,Electronics,257.55131905255274,6,2024/02/20,pending,5
+1238,,alice@invalid,electronics,400.9779382117881,8,2026-12-31,Refunded,1
+1560,,john@email.com,electronics,88.41221886696508,5,2024/02/20,pending,5
+1584,jane smith,not-an-email,Clothing,225.8162616530878,2,,paid,4
+1446,ALICE WONG,maria@email.com,,52.67545572992803,8,2023-11-20,,4
+1868,,jane@email.com,Electronics,130.83578113923207,4,2026-12-31,paid,2
+1801,John Doe,jane@email.com,electronics,441.2768015815277,9,2024-01-01,pending,1
+1600,,,home & garden,496.9857105608521,7,2024-02-14,Failed,2
+1850,,alice@invalid,Books,388.83951822014905,7,2023-11-20,failed,4
+1266,jane smith,,home & garden,320.9889238944313,4,2023-11-20,paid,2
+1996,Maria Garcia,,clothing,9966.27507711482,0,2024-02-14,Pending,
+1530,jane smith,,home & garden,193.53091463985947,4,2024-01-01,pending,4
+1056,  Bob Johnson  ,bob@email.com,Clothing,444.2359324278865,3,15-03-2024,Pending,3
+1121,Michael Brown  ,jane@email.com,Home & Garden,403.2952217998981,4,,failed,2
+1216,Maria Garcia,bob@email.com,,127.01014357695425,5,2026-12-31,Refunded,2
+1026,,bob@email.com,books,14.572493715275716,8,,pending,1
+1073,John Doe,not-an-email,electronics,305.70895663226287,5,2024-02-14,paid,4
+1045,  Bob Johnson  ,john@email.com,home & garden,109.21547448096634,2,2023-11-20,paid,1
+1248,John Doe,john@email.com,,145.6831988151264,5,15-03-2024,Refunded,2
+1722,ALICE WONG,maria@email.com,Books,256.5111358821198,8,2024/02/20,failed,3
+1282,  Bob Johnson  ,john@email.com,Home & Garden,358.0189713254226,9,15-03-2024,Paid,1
+1894,Maria Garcia,maria@email.com,Electronics,459.5680631346752,5,15-03-2024,Pending,4
+1915,  Bob Johnson  ,maria@email.com,clothing,222.07984108263994,1,2023-11-20,Unknown,5
+1811,ALICE WONG,bob@email.com,Home & Garden,203.6141447296366,9,2024-01-01,PAID,4
+1245,Emma Wilson,alice@invalid,,165.21322176308806,6,2024-02-14,Refunded,5
+1823,,,books,195.75608384924874,7,2023-11-20,Refunded,5
+1322,Maria Garcia,,,26.262783735588847,8,,failed,4
+1644,John Doe,not-an-email,clothing,108.23251260891736,8,2024/02/20,paid,2
+1159,John Doe,maria@email.com,Books,335.2569462260387,4,15-03-2024,pending,2
+1978,Michael Brown  ,jane@email.com,Home & Garden,,,15-03-2024,failed,
+1430,  Bob Johnson  ,bob@email.com,clothing,309.28223482712644,9,2024-02-14,paid,2
+1942,Maria Garcia,alice@invalid,home & garden,472.4137804819082,3,2026-12-31,failed,3
+1463,,,clothing,161.59263175276322,6,2024-01-01,Refunded,2
+1310,,maria@email.com,Clothing,346.30032637618774,6,2024/02/20,Failed,2
+1698,jane smith,,home & garden,47.66241688532012,2,,Paid,5
+1061,ALICE WONG,bob@email.com,electronics,11.576949166096554,8,15-03-2024,Unknown,5
+1885,Michael Brown  ,alice@invalid,home & garden,392.8477093161795,9,2024-01-01,Paid,3
+1596,  Bob Johnson  ,alice@invalid,Books,227.58143710907942,7,,failed,2
+1768,Michael Brown  ,,Home & Garden,251.96887982389504,7,2024-01-15,pending,3
+1650,Maria Garcia,,Home & Garden,40.60422087334501,3,2024-01-01,Paid,5
+1651,Emma Wilson,john@email.com,Electronics,442.8977338631697,5,2024-02-14,Paid,3
+1866,John Doe,bob@email.com,clothing,42.19048088763923,2,2024/02/20,pending,3
+1669,Maria Garcia,john@email.com,Books,498.9322192841693,2,2023-11-20,Paid,2
+1299,Maria Garcia,not-an-email,ELECTRONICS,376.92490511202016,1,2026-12-31,paid,1
+1690,jane smith,john@email.com,Books,180.92206164504486,3,2024-02-14,Unknown,3
+1315,ALICE WONG,,ELECTRONICS,420.1501513690406,3,2024-02-14,Refunded,4
+1311,Michael Brown  ,alice@invalid,,44.12416259957881,1,2023-11-20,pending,1
+1362,John Doe,alice@invalid,clothing,57.301890395766,1,2026-12-31,Failed,5
+1480,  Bob Johnson  ,jane@email.com,Clothing,378.0772434261249,2,2026-12-31,Pending,1
+1111,Michael Brown  ,jane@email.com,Electronics,417.531551401129,8,2024-01-15,Unknown,1
+1990,Michael Brown  ,bob@email.com,books,,,,pending,
+1487,ALICE WONG,,home & garden,187.34079551055385,5,2024/02/20,Pending,3
+1364,jane smith,not-an-email,ELECTRONICS,16.077977775884246,5,,,1
+1255,John Doe,john@email.com,Electronics,84.5310987789137,3,2024-02-14,PAID,2
+1260,ALICE WONG,,electronics,403.7657323663522,8,2026-12-31,failed,5
+1803,John Doe,bob@email.com,electronics,342.12846815192165,9,2026-12-31,failed,3
+1678,Michael Brown  ,maria@email.com,Books,379.17968190591483,6,15-03-2024,paid,5
+1495,Maria Garcia,,Home & Garden,69.07362403780823,1,2023-11-20,Pending,5
+1671,John Doe,maria@email.com,books,415.94995673006736,6,2023-11-20,paid,4
+1378,John Doe,john@email.com,books,48.694889473506024,9,,Pending,1
+1527,ALICE WONG,maria@email.com,home & garden,304.52634173211413,6,2024-02-14,Failed,4
+1846,Maria Garcia,,clothing,68.90154226908236,2,2024-02-14,Pending,1
+1138,John Doe,john@email.com,,37.956813364114616,1,2024-01-15,Paid,4
+1356,Emma Wilson,not-an-email,ELECTRONICS,416.403385780835,1,2024/02/20,Unknown,4
+1366,Emma Wilson,jane@email.com,,157.61997777240018,2,15-03-2024,failed,1
+1943,Michael Brown  ,jane@email.com,Books,480.46644615866916,8,2023-11-20,Failed,1
+1750,jane smith,alice@invalid,Books,421.27586125444117,2,2024-01-01,pending,1
+1949,,,electronics,361.98227593228194,3,2026-12-31,failed,2
+1830,Michael Brown  ,,clothing,270.159462421926,5,2024/02/20,Unknown,5
+1657,Emma Wilson,,Books,243.65329947573036,2,2024-02-14,Paid,5
+1200,ALICE WONG,jane@email.com,electronics,40.51382188212395,2,2023-11-20,PAID,5
+1214,Emma Wilson,john@email.com,ELECTRONICS,440.9951089262493,5,2024-01-01,Refunded,4
+1409,  Bob Johnson  ,not-an-email,Clothing,261.0582509974374,7,15-03-2024,Refunded,1
+1333,  Bob Johnson  ,maria@email.com,home & garden,284.6159091804156,4,15-03-2024,,4
+1209,,bob@email.com,clothing,171.8053817870338,5,2024/02/20,pending,5
+1614,jane smith,maria@email.com,Clothing,271.3594480950277,5,2024-02-14,Paid,5
+1079,Emma Wilson,not-an-email,Home & Garden,47.75855677582227,6,,failed,4
+1030,  Bob Johnson  ,not-an-email,Home & Garden,58.597268797735794,8,2024-01-15,Refunded,1
+1536,,maria@email.com,,85.68527613942865,6,2024-01-01,Pending,2
+1696,  Bob Johnson  ,not-an-email,,266.0625336750051,6,2024-01-15,Paid,4
+1558,,not-an-email,Books,25.168337550478327,1,2023-11-20,paid,5
+1837,ALICE WONG,maria@email.com,electronics,162.81329037927276,8,2023-11-20,PAID,2
+1597,Maria Garcia,not-an-email,Home & Garden,316.8548174963213,5,2024-01-01,Refunded,1
+1166,John Doe,,Clothing,368.1022728405576,1,2024-01-01,Paid,4
+1919,  Bob Johnson  ,maria@email.com,books,112.50087804988463,8,2024-01-01,Paid,4
+1496,Emma Wilson,,clothing,452.20212057006245,1,2024-01-15,failed,2
+1825,Michael Brown  ,jane@email.com,Clothing,19.470539149624507,4,2023-11-20,Pending,1
+1066,jane smith,jane@email.com,ELECTRONICS,298.21911080471136,9,,Failed,4
+1142,John Doe,jane@email.com,books,454.06474445530796,1,2024-02-14,failed,5
+1926,ALICE WONG,maria@email.com,clothing,480.7072180014679,5,15-03-2024,,2
+1828,jane smith,alice@invalid,,251.50364637924883,1,,Unknown,4
+1656,Maria Garcia,maria@email.com,home & garden,19.366886270584374,3,2026-12-31,paid,1
+1332,John Doe,jane@email.com,clothing,338.6588328338587,7,2024-02-14,PAID,4
+1665,John Doe,alice@invalid,ELECTRONICS,146.592337483131,5,2024/02/20,paid,5
+1250,ALICE WONG,bob@email.com,Electronics,78.94864874389162,4,2024-01-01,Pending,4
+1908,ALICE WONG,,Electronics,255.2957498658067,4,2024-01-15,Unknown,3
+1709,Michael Brown  ,maria@email.com,ELECTRONICS,465.3217462796084,3,15-03-2024,Pending,4
+1306,Maria Garcia,not-an-email,ELECTRONICS,320.7296477649111,1,2023-11-20,PAID,4
+1735,jane smith,bob@email.com,electronics,389.9196136975364,3,2024/02/20,Failed,4
+1976,jane smith,alice@invalid,,,,2024-01-01,Pending,
+1050,,john@email.com,clothing,159.7460655902053,7,2024/02/20,PAID,3
+1897,,alice@invalid,home & garden,446.16915732404715,1,2026-12-31,,5
+1003,Maria Garcia,john@email.com,books,277.0631902594998,3,,Unknown,2
+1545,John Doe,bob@email.com,Clothing,306.8318322318183,4,2023-11-20,PAID,5
+1351,  Bob Johnson  ,john@email.com,Clothing,404.40432065230493,1,2026-12-31,pending,5
+1905,ALICE WONG,john@email.com,Books,479.3877193178175,4,2026-12-31,Unknown,1
+1537,Michael Brown  ,jane@email.com,electronics,22.46940235381793,4,15-03-2024,Failed,1
+1345,ALICE WONG,,home & garden,459.8575105775838,6,2024-02-14,,2
+1995,  Bob Johnson  ,bob@email.com,clothing,9597.655123280249,0,2023-11-20,Failed,
+1482,,not-an-email,Electronics,49.28820690013269,5,2024-02-14,PAID,1
+1576,,jane@email.com,books,198.90083332109194,9,2024/02/20,paid,4
+1034,jane smith,john@email.com,,281.99162515812026,3,,Refunded,5
+1032,John Doe,jane@email.com,Clothing,402.0347746625882,5,2023-11-20,Failed,4
+1232,  Bob Johnson  ,alice@invalid,electronics,109.84556497256766,7,2024-01-01,paid,2
+1964,Emma Wilson,bob@email.com,,-37.133200413618056,-2,2026-12-31,Unknown,7
+1193,John Doe,jane@email.com,ELECTRONICS,473.3920920301383,9,2024-02-14,failed,5
+1334,ALICE WONG,alice@invalid,,64.38483991460572,1,2024-01-01,PAID,4
+1004,Emma Wilson,john@email.com,Clothing,492.48817236700904,1,2024-01-01,Failed,5
+1205,  Bob Johnson  ,maria@email.com,electronics,395.27631769817623,4,2024-01-15,Unknown,1
+1515,jane smith,maria@email.com,clothing,144.93677538515507,3,,,4
+1800,ALICE WONG,alice@invalid,Clothing,241.41808403986104,2,2024/02/20,Refunded,1
+1307,  Bob Johnson  ,maria@email.com,home & garden,71.86972336660634,4,,,4
+1110,Emma Wilson,not-an-email,,21.85396430676407,5,2024-01-01,failed,5
+1431,John Doe,not-an-email,clothing,147.5347756028274,6,2024-01-01,Pending,2
+1078,  Bob Johnson  ,,ELECTRONICS,254.1452843090923,6,2024-02-14,Refunded,4
+1085,Emma Wilson,maria@email.com,clothing,263.4618376563886,6,2024-01-01,pending,3
+1287,John Doe,jane@email.com,electronics,185.32115000946646,3,15-03-2024,,2
+1083,Maria Garcia,,,356.7636580230487,7,2023-11-20,Paid,3
+1992,  Bob Johnson  ,john@email.com,Electronics,5592.513117990758,0,,,
+1790,Emma Wilson,,Books,112.35253476253023,8,2026-12-31,Failed,5
+1895,  Bob Johnson  ,,electronics,152.347207778996,5,2026-12-31,paid,4
+1399,Michael Brown  ,,home & garden,222.95202082076878,7,2024/02/20,paid,1
+1324,jane smith,not-an-email,ELECTRONICS,330.0497673603287,9,2024-01-01,failed,5
+1520,jane smith,,ELECTRONICS,412.9869630974564,9,15-03-2024,failed,4
+1917,jane smith,maria@email.com,,91.2173921118764,9,2024-02-14,Paid,4
+1923,John Doe,jane@email.com,ELECTRONICS,398.6400082584023,7,2024-01-01,failed,2
+1006,Michael Brown  ,bob@email.com,Electronics,31.15513054053572,1,2024/02/20,PAID,5
+1732,John Doe,,Clothing,280.72547402986567,8,2024-01-15,failed,3
+1466,Emma Wilson,john@email.com,Electronics,412.387158449611,8,2024-01-15,failed,3
+1098,  Bob Johnson  ,bob@email.com,,321.72690870703406,2,2024-01-01,,3
+1267,  Bob Johnson  ,jane@email.com,Books,91.31789869493466,9,2024/02/20,paid,1
+1358,Michael Brown  ,maria@email.com,Books,437.6493813874027,6,2024/02/20,Refunded,5
+1869,Emma Wilson,john@email.com,ELECTRONICS,247.1977641579988,4,15-03-2024,Refunded,3
+1799,John Doe,not-an-email,Clothing,332.103206263363,8,2026-12-31,failed,1
+1381,Michael Brown  ,alice@invalid,electronics,26.988430695976827,7,2024-01-01,paid,1
+1632,  Bob Johnson  ,alice@invalid,Electronics,383.2811137750716,3,2024-01-01,pending,2
+1382,,maria@email.com,books,295.5753491909099,6,2023-11-20,Refunded,4
+1491,Michael Brown  ,bob@email.com,Home & Garden,457.510604312356,1,2024/02/20,failed,4
+1119,Michael Brown  ,jane@email.com,clothing,422.54744772798625,1,15-03-2024,Unknown,3
+1901,Maria Garcia,maria@email.com,clothing,13.842379478239241,9,2024-02-14,failed,1
+1251,,,Home & Garden,108.98767751722008,9,2026-12-31,Paid,2
+1524,Emma Wilson,jane@email.com,Electronics,166.24474097735802,2,2024-02-14,PAID,4
+1010,jane smith,bob@email.com,electronics,410.71481162990307,5,2023-11-20,Paid,1
+1197,jane smith,bob@email.com,Electronics,211.76511537640917,8,2024-01-15,PAID,4
+1604,,john@email.com,home & garden,314.1236351140462,5,2024-01-01,Refunded,3
+1082,  Bob Johnson  ,jane@email.com,Home & Garden,394.5995187846191,8,2024-02-14,Pending,1
+1784,  Bob Johnson  ,jane@email.com,Electronics,33.61114607271515,6,15-03-2024,Failed,2
+1588,ALICE WONG,alice@invalid,Books,38.24731527752219,3,,Paid,5
+1798,Emma Wilson,maria@email.com,Home & Garden,113.87708680234245,5,2023-11-20,Pending,5
+1240,Michael Brown  ,,Books,458.39413351945115,9,2024-01-01,Failed,3
+1291,John Doe,not-an-email,Clothing,95.14318063651446,3,15-03-2024,failed,3
+1212,Emma Wilson,,Clothing,110.39182433384916,6,2024-01-15,failed,2
+1718,  Bob Johnson  ,,Electronics,185.32890121563895,8,2024/02/20,failed,3
+1360,ALICE WONG,bob@email.com,electronics,354.8061289557899,7,2026-12-31,Refunded,4
+1450,,alice@invalid,Clothing,258.63184997172635,6,,paid,5
+1228,,bob@email.com,Books,412.83054869411046,1,2024-01-15,,2
+1951,ALICE WONG,bob@email.com,ELECTRONICS,-24.375392658044504,-2,,Unknown,6
+1947,Maria Garcia,maria@email.com,Home & Garden,89.21900375611133,2,,Unknown,3
+1797,Maria Garcia,john@email.com,Clothing,426.67052054874875,7,2024-02-14,Paid,4
+1502,Maria Garcia,alice@invalid,Books,154.56994675053656,9,2024/02/20,PAID,3
+1465,  Bob Johnson  ,not-an-email,electronics,477.97965062764456,6,2024-02-14,Pending,3
+1363,John Doe,john@email.com,Electronics,128.5279758468311,6,2024-02-14,paid,5
+1469,Maria Garcia,bob@email.com,home & garden,35.056336906629355,1,15-03-2024,Refunded,4
+1936,John Doe,maria@email.com,ELECTRONICS,45.80996539323735,3,2024-01-15,Paid,3
+1429,John Doe,alice@invalid,Books,106.08787924181254,6,,paid,3
+1008,Maria Garcia,bob@email.com,ELECTRONICS,74.54709899273533,4,15-03-2024,Pending,3
+1156,jane smith,alice@invalid,home & garden,180.19822986683292,1,2026-12-31,failed,3
+1542,jane smith,john@email.com,clothing,210.71815849866368,8,2023-11-20,,3
+1441,John Doe,maria@email.com,electronics,290.30383525095743,7,2026-12-31,Unknown,5
+1483,Maria Garcia,not-an-email,ELECTRONICS,183.83793299963227,7,2024-01-15,Failed,5
+1423,,bob@email.com,clothing,32.367885296168026,5,2026-12-31,Refunded,1
+1779,Michael Brown  ,bob@email.com,electronics,354.2448457520554,2,15-03-2024,Failed,5
+1950,Maria Garcia,,electronics,131.19675475135085,7,15-03-2024,Paid,3
+1335,,jane@email.com,Clothing,229.05721646514846,9,2023-11-20,Unknown,4
+1577,Maria Garcia,john@email.com,books,176.78968108470778,8,2026-12-31,Failed,3
+1935,Michael Brown  ,jane@email.com,ELECTRONICS,300.8448583356051,5,2024-01-15,Paid,4
+1568,Michael Brown  ,maria@email.com,electronics,163.84369151490287,5,15-03-2024,Pending,3
+1595,  Bob Johnson  ,alice@invalid,clothing,78.2063836593908,6,2024-01-01,failed,1
+1531,John Doe,,electronics,91.76149883238888,4,2024-02-14,Failed,4
+1582,John Doe,jane@email.com,,383.3318881763863,3,,PAID,5
+1708,Michael Brown  ,jane@email.com,Clothing,403.70654421547346,6,2024/02/20,Failed,5
+1449,Emma Wilson,not-an-email,Books,179.15933997282912,5,2024-01-15,failed,1
+1454,,,home & garden,496.4802511095445,1,2023-11-20,failed,1
+1229,John Doe,jane@email.com,Books,196.40580367870555,4,2023-11-20,,5
+1353,John Doe,not-an-email,books,481.7770749662727,8,2023-11-20,Refunded,2
+1729,Maria Garcia,alice@invalid,Books,359.836789928229,8,,paid,3
+1213,Maria Garcia,john@email.com,books,440.1367382945,1,2024-01-01,PAID,1
+1080,  Bob Johnson  ,john@email.com,electronics,38.689955329549804,5,2024-02-14,paid,2
+1149,John Doe,jane@email.com,Clothing,248.9098848999583,4,2026-12-31,paid,5
+1303,ALICE WONG,alice@invalid,Books,422.30930101153234,9,2024/02/20,failed,5
+1629,Emma Wilson,not-an-email,Electronics,193.9116548806049,6,2026-12-31,Pending,3
+1778,Michael Brown  ,jane@email.com,Home & Garden,475.87862678835563,4,2024-01-15,pending,5
+1507,Michael Brown  ,alice@invalid,Home & Garden,283.73477426070843,6,15-03-2024,Unknown,3
+1343,ALICE WONG,,Home & Garden,30.592090833988593,7,2024/02/20,pending,3
+1486,,maria@email.com,Home & Garden,342.54827876955676,7,2023-11-20,Refunded,3
+1712,jane smith,bob@email.com,,167.53289361146216,5,15-03-2024,,2
+1134,Maria Garcia,not-an-email,Home & Garden,378.1737921542324,2,15-03-2024,paid,4
+1704,Michael Brown  ,maria@email.com,Home & Garden,207.4079084899922,7,2023-11-20,Unknown,2
+1312,Emma Wilson,alice@invalid,books,95.6919042162201,2,2024-01-01,Unknown,2
+1723,  Bob Johnson  ,bob@email.com,Books,230.1813735994246,8,2024-01-15,PAID,1
+1630,Emma Wilson,maria@email.com,books,150.0339422076764,6,,PAID,5
+1001,Emma Wilson,not-an-email,home & garden,331.519300463725,5,,failed,3
+1317,ALICE WONG,not-an-email,Books,325.0121359287667,5,2024-01-01,Paid,4
+1707,  Bob Johnson  ,maria@email.com,,147.69220446526967,4,15-03-2024,PAID,3
+1548,  Bob Johnson  ,not-an-email,electronics,494.13762341624,9,2023-11-20,,2
+1873,jane smith,jane@email.com,books,479.3170024842199,1,2023-11-20,Paid,4
+1533,John Doe,,ELECTRONICS,79.87113060013527,1,,failed,2
+1478,Michael Brown  ,bob@email.com,,69.3022502377446,6,2026-12-31,paid,4
+1405,Michael Brown  ,bob@email.com,,319.34070101507444,5,2024-02-14,Refunded,3
+1173,ALICE WONG,jane@email.com,home & garden,486.28261151945316,9,2026-12-31,Refunded,5
+1126,Michael Brown  ,maria@email.com,clothing,366.69026041714494,1,2024/02/20,Unknown,5
+1395,ALICE WONG,bob@email.com,books,290.1684525036779,5,2023-11-20,paid,4
+1421,jane smith,,electronics,187.30801567051796,1,2024-02-14,Paid,5
+1553,Maria Garcia,bob@email.com,Home & Garden,23.49299273603809,8,2024-02-14,failed,3
+1904,Emma Wilson,not-an-email,,75.79467694211502,7,2026-12-31,Pending,4
+1091,Michael Brown  ,alice@invalid,home & garden,118.09985682849351,4,2026-12-31,Unknown,3
+1940,jane smith,alice@invalid,Books,398.3716069813078,1,2024-01-01,Unknown,2
+1182,Emma Wilson,jane@email.com,Clothing,266.46154657343953,8,2024/02/20,Refunded,3
+1275,John Doe,not-an-email,electronics,446.22644597872306,2,2024-02-14,PAID,4
+1896,  Bob Johnson  ,not-an-email,Electronics,240.29425139738893,7,2024-01-15,Pending,2
+1070,,bob@email.com,Home & Garden,294.1920558397843,8,2024/02/20,failed,5
+1292,ALICE WONG,bob@email.com,books,358.8868699620826,5,2023-11-20,Paid,1
+1132,Maria Garcia,maria@email.com,electronics,309.01032324404423,9,2024-02-14,PAID,2
+1301,John Doe,,home & garden,314.2549980644313,7,2024-02-14,,2
+1425,Michael Brown  ,john@email.com,home & garden,145.63901081773983,6,2024/02/20,pending,1
+1327,ALICE WONG,not-an-email,ELECTRONICS,385.3717405022983,4,2024/02/20,Refunded,5
+1145,Michael Brown  ,john@email.com,electronics,382.10514858480224,9,2023-11-20,pending,3
+1424,ALICE WONG,jane@email.com,Clothing,78.61180780112566,9,15-03-2024,Pending,1
+1581,,john@email.com,home & garden,275.43535808090195,2,2024-02-14,,1
+1136,Maria Garcia,jane@email.com,,478.7411643308944,7,2024/02/20,Refunded,5
+1451,,maria@email.com,books,438.36903709573613,2,2024/02/20,Failed,4
+1165,jane smith,not-an-email,ELECTRONICS,137.47731757140508,8,15-03-2024,Pending,3
+1029,Michael Brown  ,john@email.com,electronics,495.9868761611881,5,15-03-2024,,3
+1774,  Bob Johnson  ,maria@email.com,electronics,359.39256481081617,4,,paid,3
+1194,Emma Wilson,john@email.com,Home & Garden,426.48793202552434,5,,PAID,1
+1389,John Doe,bob@email.com,clothing,66.31716855918775,2,2024-01-15,PAID,3
+1853,Maria Garcia,alice@invalid,home & garden,192.15225450410185,6,2024-02-14,Paid,3
+1170,,alice@invalid,ELECTRONICS,107.06784005227266,8,,paid,5
+1706,Maria Garcia,jane@email.com,Electronics,123.86831829746345,6,,,4
+1141,Michael Brown  ,,ELECTRONICS,131.01961154527993,9,2023-11-20,Failed,2
+1174,  Bob Johnson  ,bob@email.com,electronics,308.1783636212686,1,15-03-2024,failed,2
+1007,Maria Garcia,,Electronics,90.75925970742419,2,,Failed,1
+1746,jane smith,,home & garden,32.95743517852553,7,2026-12-31,PAID,4
+1479,John Doe,alice@invalid,Home & Garden,215.28441719186296,1,2024-01-01,Failed,4
+1074,jane smith,john@email.com,Home & Garden,341.4692892409175,5,2024-02-14,Paid,1
+1911,ALICE WONG,jane@email.com,ELECTRONICS,144.60486937346707,1,2024-01-15,pending,3
+1814,  Bob Johnson  ,jane@email.com,,446.20535129172544,5,,Paid,2
+1239,ALICE WONG,maria@email.com,electronics,204.0255316046029,2,2024-02-14,failed,5
+1146,Emma Wilson,,clothing,230.37252280076459,6,2026-12-31,failed,1
+1793,Maria Garcia,jane@email.com,electronics,35.653959891861476,1,2026-12-31,failed,5
+1235,  Bob Johnson  ,maria@email.com,Electronics,398.49866532658126,6,2024-01-01,Unknown,4
+1221,ALICE WONG,not-an-email,books,41.9502497176411,9,2024-01-15,Refunded,4
+1924,Emma Wilson,maria@email.com,,428.35461163528686,1,2024/02/20,Unknown,2
+1501,Emma Wilson,alice@invalid,Clothing,216.7967874625431,6,15-03-2024,,4
+1133,John Doe,,Electronics,76.3235003160659,8,2023-11-20,pending,2
+1991,jane smith,not-an-email,books,8312.17005850534,0,2024-01-15,PAID,
+1775,jane smith,bob@email.com,Clothing,336.52885265332117,4,2024-02-14,Unknown,1
+1186,Maria Garcia,not-an-email,ELECTRONICS,43.157497331000776,4,2024-02-14,failed,1
+1042,Emma Wilson,alice@invalid,home & garden,382.88547241376597,4,2024/02/20,Refunded,3
+1697,Emma Wilson,alice@invalid,Books,156.7871821973982,6,2024-02-14,Pending,2
+1109,,bob@email.com,ELECTRONICS,22.83638718071175,6,2024-02-14,Paid,4
+1589,  Bob Johnson  ,jane@email.com,Electronics,177.79950962900955,6,2024/02/20,Paid,3
+1057,Michael Brown  ,maria@email.com,home & garden,300.5917237515242,8,2023-11-20,,4
+1406,  Bob Johnson  ,alice@invalid,Electronics,299.9316095300995,1,,failed,2
+1443,John Doe,not-an-email,electronics,153.8095233719796,7,2026-12-31,,5
+1758,ALICE WONG,john@email.com,home & garden,422.9288320586719,4,2024/02/20,Failed,2
+1998,  Bob Johnson  ,,,8805.03961747696,0,,pending,
+1025,  Bob Johnson  ,alice@invalid,Books,236.16316246569704,2,2024/02/20,PAID,2
+1468,John Doe,bob@email.com,books,321.8366713898694,9,2024-01-01,paid,1
+1540,jane smith,maria@email.com,home & garden,176.89604162483292,3,2026-12-31,Paid,3
+1532,Michael Brown  ,,Home & Garden,220.9593758464817,9,2023-11-20,,2
+1619,Emma Wilson,,ELECTRONICS,399.16322464920864,8,,Pending,4
+1695,jane smith,not-an-email,Clothing,478.0064515729337,8,2023-11-20,Unknown,5
+1927,Maria Garcia,bob@email.com,Clothing,106.4935951821799,5,,Pending,2
+1339,  Bob Johnson  ,bob@email.com,,196.39626899550072,2,2024-02-14,Failed,1
+1052,,maria@email.com,books,498.2038254373512,4,2023-11-20,Pending,4
+1508,ALICE WONG,bob@email.com,books,178.15200305460255,9,2024-02-14,Paid,2
+1517,Michael Brown  ,jane@email.com,home & garden,396.6027283611887,9,2024-01-01,failed,3
+1921,Maria Garcia,bob@email.com,ELECTRONICS,423.38833538539365,8,15-03-2024,PAID,4
+1782,ALICE WONG,john@email.com,Electronics,393.09369303901843,8,2023-11-20,Pending,4
+1265,ALICE WONG,john@email.com,Clothing,337.2807994137773,6,15-03-2024,paid,1
+1818,ALICE WONG,not-an-email,Home & Garden,64.64098403742543,3,2024-01-01,failed,3
+1711,Emma Wilson,maria@email.com,ELECTRONICS,453.9943910449236,2,2024/02/20,Failed,1
+1683,Emma Wilson,bob@email.com,home & garden,310.66601597635463,5,2026-12-31,paid,5
+1833,ALICE WONG,maria@email.com,Clothing,237.4066281322169,9,2024-02-14,pending,2
+1519,Michael Brown  ,alice@invalid,clothing,401.20636685399273,5,2024/02/20,Refunded,5
+1448,,not-an-email,books,65.78081280353469,2,2024-01-01,Pending,4
+1019,Michael Brown  ,maria@email.com,Home & Garden,286.8607765009179,9,2024-01-15,failed,2
+1716,Michael Brown  ,,,489.70074643565636,4,,Paid,5
+1484,,bob@email.com,clothing,471.44559869327327,8,2023-11-20,PAID,1
+1569,Emma Wilson,john@email.com,electronics,445.3177994312538,4,2024-02-14,Paid,5
+1434,Michael Brown  ,maria@email.com,Electronics,12.697841588606202,1,2024-01-15,Refunded,1
+1368,jane smith,maria@email.com,books,155.64652577722242,5,2026-12-31,PAID,2
+1084,Michael Brown  ,maria@email.com,Home & Garden,396.42133268947913,7,2024-01-15,Paid,2
+1062,Emma Wilson,maria@email.com,electronics,313.59877535532195,8,2023-11-20,pending,4
+1639,jane smith,bob@email.com,Home & Garden,209.7162622011703,6,,Refunded,2
+1273,Michael Brown  ,,home & garden,268.4258148401114,2,2024-01-01,failed,4
+1286,ALICE WONG,jane@email.com,Home & Garden,235.03994661487482,1,2024-01-15,failed,2
+1361,  Bob Johnson  ,alice@invalid,,274.94225355600605,1,2026-12-31,Failed,1
+1355,Michael Brown  ,bob@email.com,ELECTRONICS,159.32803673920532,3,2024-01-01,Refunded,3
+1457,,bob@email.com,electronics,203.34227704284675,3,2024/02/20,pending,5
+1279,John Doe,,,430.50675604701036,9,2024-02-14,Failed,2
+1013,ALICE WONG,alice@invalid,clothing,421.944483725488,1,,PAID,5
+1183,,bob@email.com,electronics,66.23674721591655,3,2024-01-01,Unknown,2
+1369,ALICE WONG,jane@email.com,home & garden,156.9603646384225,2,2024-02-14,Paid,1
+1882,,alice@invalid,Home & Garden,105.95821122579231,7,2024-01-15,failed,1
+1616,ALICE WONG,,home & garden,74.01964847349683,2,15-03-2024,Unknown,1
+1224,  Bob Johnson  ,,Clothing,273.96388099682997,5,2024/02/20,Paid,4
+1573,John Doe,,Home & Garden,151.3186645311854,6,,paid,5
+1971,Michael Brown  ,jane@email.com,,,,,failed,
+1654,Maria Garcia,not-an-email,ELECTRONICS,317.030330435673,9,2024-01-15,Pending,1
+1546,Michael Brown  ,not-an-email,books,188.6509268167946,2,2026-12-31,PAID,2
+1583,  Bob Johnson  ,alice@invalid,Clothing,418.48848134941693,7,2026-12-31,Refunded,3
+1634,John Doe,not-an-email,clothing,260.5249764783681,1,2026-12-31,Refunded,2
+1177,ALICE WONG,alice@invalid,Electronics,84.11094608011793,3,2023-11-20,failed,4
+1666,Maria Garcia,not-an-email,Home & Garden,113.24543229492956,5,2024/02/20,Unknown,5
+1674,,maria@email.com,electronics,371.55606409514974,6,2024-01-01,pending,3
+1586,Emma Wilson,maria@email.com,Books,137.0740996853763,6,2024-01-01,,5
+1874,John Doe,bob@email.com,clothing,471.934916356115,1,15-03-2024,Paid,3
+1394,Michael Brown  ,not-an-email,Clothing,440.699661138311,5,2023-11-20,Paid,1
+1164,  Bob Johnson  ,alice@invalid,Clothing,215.2087263463391,3,,paid,2
+1249,John Doe,maria@email.com,Home & Garden,491.92552163045883,2,,,4
+1635,jane smith,not-an-email,ELECTRONICS,251.23948520057914,3,2024-01-01,pending,3
+1886,Maria Garcia,alice@invalid,clothing,293.3662157159767,7,2024-01-01,paid,3
+1670,Emma Wilson,maria@email.com,Home & Garden,341.64243644012384,4,2024-01-15,,3
+1376,  Bob Johnson  ,maria@email.com,Books,447.2282240884296,2,2024-01-01,PAID,1
+1413,,bob@email.com,clothing,329.5898871772815,8,2023-11-20,Pending,5
+1075,Maria Garcia,alice@invalid,,404.44460984357715,9,2024/02/20,Refunded,1
+1114,,maria@email.com,clothing,156.3755310584988,2,2024-01-15,Pending,2
+1599,  Bob Johnson  ,maria@email.com,Home & Garden,206.87161232061888,7,15-03-2024,,4
+1962,John Doe,john@email.com,clothing,-24.625452445132513,-5,2024-01-01,,6
+1391,ALICE WONG,,Electronics,455.71714152393025,1,2024/02/20,Paid,4
+1105,jane smith,maria@email.com,,298.00698682247713,7,2024/02/20,paid,1
+1115,Emma Wilson,not-an-email,home & garden,470.93283010651686,9,2024/02/20,Failed,1
+1418,jane smith,not-an-email,Books,320.7109753744023,4,,Refunded,2
+1526,Emma Wilson,john@email.com,Books,191.8744874844375,6,2024-02-14,PAID,5
+1458,Michael Brown  ,john@email.com,clothing,216.69580748402737,4,2024-01-01,failed,2
+1410,,,Home & Garden,61.07015337609036,9,2026-12-31,Pending,3
+1093,jane smith,jane@email.com,Books,370.47492597720304,3,,Paid,4
+1931,Emma Wilson,jane@email.com,Clothing,490.76042857799274,6,2024-02-14,failed,5
+1090,jane smith,not-an-email,clothing,53.414210543012445,6,2024/02/20,Failed,1
+1337,Maria Garcia,bob@email.com,Clothing,433.6361686661083,2,2024-02-14,paid,5
+1989,jane smith,,home & garden,,,2026-12-31,Failed,
+1922,Emma Wilson,not-an-email,,490.78433929041677,3,2026-12-31,Paid,5
+1934,John Doe,bob@email.com,books,224.1279839761542,6,2024-02-14,Failed,1
+1606,ALICE WONG,maria@email.com,,203.61749419951613,1,2026-12-31,Pending,3
+1594,  Bob Johnson  ,,Books,294.429124486911,7,2026-12-31,Failed,1
+1612,jane smith,bob@email.com,,455.6327593592486,5,,paid,5
+1095,,john@email.com,clothing,467.2255323583433,9,,paid,4
+1012,Emma Wilson,not-an-email,electronics,257.8678195463962,4,15-03-2024,Paid,5
+1397,Michael Brown  ,john@email.com,ELECTRONICS,220.9094310572852,5,2024-02-14,failed,5
+1534,John Doe,bob@email.com,clothing,446.1475472400661,2,,,2
+1044,Michael Brown  ,bob@email.com,Electronics,375.4095535383037,4,2024/02/20,failed,4
+1043,jane smith,john@email.com,Home & Garden,27.302563920717144,7,15-03-2024,failed,2
+1330,Michael Brown  ,not-an-email,books,137.54056020734146,1,2026-12-31,paid,5
+1168,Emma Wilson,john@email.com,Electronics,135.69973059768142,7,,,2
+1498,  Bob Johnson  ,jane@email.com,Clothing,271.64406154840424,3,2024/02/20,Paid,2
+1877,jane smith,alice@invalid,electronics,276.7963430721288,8,15-03-2024,,5
+1598,Emma Wilson,john@email.com,home & garden,249.55993757830117,4,2026-12-31,Failed,5
+1757,jane smith,not-an-email,Electronics,142.4927103284175,8,2023-11-20,pending,5
+1101,Emma Wilson,alice@invalid,ELECTRONICS,210.85339595118123,3,,Pending,4
+1427,John Doe,maria@email.com,books,172.36003348049488,3,2024-01-15,pending,2
+1179,John Doe,bob@email.com,Home & Garden,132.97366405674603,1,2026-12-31,PAID,5
+1445,  Bob Johnson  ,alice@invalid,books,204.53737020622393,7,,Unknown,1
+1417,Maria Garcia,alice@invalid,,258.0703691526494,5,2024-01-15,Refunded,5
+1871,Maria Garcia,alice@invalid,clothing,242.16681591499383,6,2024-02-14,Refunded,2
+1883,ALICE WONG,bob@email.com,Clothing,78.99344495741128,5,,,2
+1681,Michael Brown  ,alice@invalid,ELECTRONICS,385.3968070698372,7,15-03-2024,PAID,5
+1178,ALICE WONG,bob@email.com,ELECTRONICS,120.4052956761052,5,2026-12-31,failed,1
+1396,  Bob Johnson  ,alice@invalid,home & garden,263.54871235997024,1,15-03-2024,,5
+1912,Maria Garcia,john@email.com,clothing,405.4130905331569,3,,PAID,3
+1794,  Bob Johnson  ,not-an-email,,386.10813797377995,1,,Unknown,5
+1961,John Doe,maria@email.com,home & garden,-40.85292881585565,-4,15-03-2024,Paid,10
+1685,John Doe,john@email.com,Books,248.9376267369333,9,2024-02-14,Pending,4
+1384,Maria Garcia,maria@email.com,Electronics,429.2910859803943,4,2024/02/20,PAID,4
+1957,  Bob Johnson  ,maria@email.com,Home & Garden,-49.5158753289557,-1,2024-02-14,Unknown,9
+1752,Maria Garcia,maria@email.com,Books,130.9436959089321,7,,pending,2
+1258,,jane@email.com,electronics,50.89740164479781,3,2024/02/20,Failed,3
+1539,Maria Garcia,,clothing,322.0821355528242,3,2024-02-14,Refunded,1
+1336,Michael Brown  ,alice@invalid,clothing,235.5755528889439,5,2023-11-20,failed,3
+1016,Maria Garcia,jane@email.com,clothing,299.2703683247987,4,2024/02/20,Pending,2
+1325,,not-an-email,home & garden,469.7693610397565,9,,Paid,1
+1759,John Doe,jane@email.com,Books,163.54047961672015,5,2023-11-20,,4
+1223,,jane@email.com,Clothing,455.5179008721645,6,2024-01-01,,4
+1180,ALICE WONG,jane@email.com,books,426.80186834215755,5,2024-01-01,failed,5
+1984,Maria Garcia,jane@email.com,ELECTRONICS,,,2023-11-20,Failed,
+1023,jane smith,not-an-email,clothing,382.9495531511474,1,2023-11-20,Unknown,1
+1357,jane smith,alice@invalid,home & garden,147.94538722331566,9,2024-01-01,paid,3
+1667,,jane@email.com,,479.14952932866714,3,2024/02/20,,3
+1862,John Doe,john@email.com,electronics,392.3843005497804,4,2024-01-15,,4
+1341,ALICE WONG,jane@email.com,Electronics,64.25309072989468,1,2024-02-14,pending,5
+1432,,john@email.com,clothing,111.42636343482913,5,2024-01-15,Unknown,3
+1552,  Bob Johnson  ,not-an-email,clothing,247.93895283310493,4,2026-12-31,failed,2
+1834,  Bob Johnson  ,alice@invalid,Clothing,482.11462803491827,6,2023-11-20,Paid,5
+1204,John Doe,not-an-email,,35.45872300159152,2,2024-01-15,failed,5
+1631,John Doe,alice@invalid,clothing,109.57931463218276,4,2024-02-14,Refunded,2
+1094,,,clothing,499.1902805825453,4,2024-01-15,failed,1
+1559,Michael Brown  ,maria@email.com,ELECTRONICS,200.11351237396605,3,2024-01-01,Pending,4
+1069,  Bob Johnson  ,john@email.com,Home & Garden,41.77826129665449,5,,Unknown,5
+1623,Emma Wilson,maria@email.com,books,82.91002500850666,8,,Failed,1
+1285,jane smith,,books,412.6020798781311,4,15-03-2024,Failed,3
+1845,Maria Garcia,maria@email.com,Books,405.50621330879244,6,2024-02-14,paid,1
+1435,  Bob Johnson  ,maria@email.com,ELECTRONICS,13.75537599812041,7,15-03-2024,,1
+1154,ALICE WONG,not-an-email,Books,270.8861343148564,7,2026-12-31,paid,2
+1076,jane smith,bob@email.com,ELECTRONICS,142.21215286282504,9,,Unknown,2
+1731,ALICE WONG,maria@email.com,electronics,403.93966870073496,7,,paid,3
+1447,ALICE WONG,alice@invalid,electronics,312.3625928977226,5,2024-02-14,Refunded,5
+1189,Emma Wilson,john@email.com,clothing,50.045419415921344,2,2023-11-20,pending,2
+1272,Michael Brown  ,maria@email.com,home & garden,284.2802849828075,3,2024-01-01,Refunded,2
+1237,,not-an-email,clothing,320.94538459964883,4,2023-11-20,Pending,1
+1488,  Bob Johnson  ,bob@email.com,electronics,300.8937876921838,1,,Refunded,4
+1118,,not-an-email,books,437.6378227374549,9,2024-01-15,paid,4
+1944,Maria Garcia,maria@email.com,Electronics,265.51522297352125,1,15-03-2024,Pending,3
+1513,Emma Wilson,not-an-email,books,220.66622792117258,7,,Refunded,1
+1826,  Bob Johnson  ,bob@email.com,Clothing,70.94051551025001,9,2024-01-15,Failed,2
+1592,Michael Brown  ,alice@invalid,books,283.27732486252154,5,2023-11-20,paid,1
+1127,jane smith,jane@email.com,books,253.26596465409688,1,2026-12-31,Failed,2
+1117,John Doe,jane@email.com,Books,220.53183824207818,6,2024-01-01,Pending,2
+1474,  Bob Johnson  ,,home & garden,66.09894265229352,1,15-03-2024,Failed,3
+1694,  Bob Johnson  ,alice@invalid,books,45.43507287638992,1,,Failed,3
+1058,John Doe,bob@email.com,Electronics,201.84759210713636,8,2026-12-31,Refunded,5
+1864,jane smith,john@email.com,clothing,205.02259354770638,6,2024-02-14,Paid,3
+1913,Maria Garcia,bob@email.com,Electronics,235.23578649730402,2,,paid,5
+1370,Emma Wilson,,electronics,374.16466737848566,6,2026-12-31,,4
+1269,Emma Wilson,john@email.com,electronics,219.46994708110142,4,,failed,5
+1047,Michael Brown  ,john@email.com,,190.29096813802138,8,2024-01-01,Unknown,2
+1350,Emma Wilson,maria@email.com,electronics,379.4413327624241,6,2024/02/20,Failed,5
+1196,jane smith,jane@email.com,ELECTRONICS,236.52482489029754,7,,Unknown,3
+2000,ALICE WONG,john@email.com,books,6962.2909311474,0,2024-02-14,pending,
+1835,John Doe,not-an-email,Books,264.3258172634789,4,2026-12-31,Paid,2
+1737,  Bob Johnson  ,not-an-email,Home & Garden,253.3807571807938,5,2024/02/20,Refunded,2
+1264,John Doe,,Electronics,492.21405632788395,7,2024-01-01,Failed,3
+1444,Michael Brown  ,bob@email.com,Home & Garden,466.55932252208004,1,2024-02-14,pending,3
+1676,Maria Garcia,john@email.com,clothing,372.8333046572244,2,2026-12-31,Unknown,4
+1305,jane smith,not-an-email,Home & Garden,489.7614196274257,3,15-03-2024,Failed,4
+1342,  Bob Johnson  ,not-an-email,ELECTRONICS,217.04872987285287,2,2026-12-31,Refunded,4
+1967,Maria Garcia,bob@email.com,clothing,-46.18402890747157,-2,2026-12-31,,6
+1150,Michael Brown  ,not-an-email,Clothing,26.47066408980849,5,2024-02-14,Pending,1
+1125,Maria Garcia,alice@invalid,home & garden,49.49474174099108,6,15-03-2024,failed,4
+1787,Emma Wilson,john@email.com,ELECTRONICS,255.1965613979986,5,2024-01-15,Failed,1
+1051,Emma Wilson,bob@email.com,Books,439.5588732958183,9,,Paid,1
+1354,Michael Brown  ,not-an-email,home & garden,366.0687861144584,8,15-03-2024,paid,2
+1928,  Bob Johnson  ,maria@email.com,clothing,476.20060707729783,8,2024-01-01,Pending,5
+1143,  Bob Johnson  ,john@email.com,home & garden,132.277637926258,2,15-03-2024,Refunded,3
+1471,Maria Garcia,maria@email.com,electronics,39.167103170408126,3,2023-11-20,failed,4
+1400,John Doe,alice@invalid,home & garden,389.20103130777665,3,15-03-2024,Refunded,5
+1626,jane smith,maria@email.com,Electronics,246.86964362684185,2,,Refunded,3
+1321,Michael Brown  ,alice@invalid,clothing,114.1957444218371,3,2023-11-20,failed,4
+1020,ALICE WONG,john@email.com,,347.55379800454443,9,2024-02-14,failed,4
+1810,Maria Garcia,jane@email.com,home & garden,325.96797597093376,1,,PAID,4
+1791,,maria@email.com,Home & Garden,190.66651372374966,3,2024-02-14,Paid,4
+1809,,john@email.com,electronics,164.6573984440415,7,2024/02/20,Unknown,3
+1408,Michael Brown  ,bob@email.com,Books,126.34239950365507,8,2024-01-15,Unknown,3
+1538,Emma Wilson,john@email.com,Books,326.45296928037726,3,2024-01-15,failed,4
+1621,  Bob Johnson  ,not-an-email,home & garden,439.77438469891257,8,2024-02-14,failed,2
+1039,John Doe,john@email.com,home & garden,394.05797439784465,8,2026-12-31,failed,4
+1176,,alice@invalid,Clothing,65.90693459508735,8,2024-02-14,pending,4
+1246,,alice@invalid,Books,430.017835929389,5,2026-12-31,PAID,3
+1829,Emma Wilson,alice@invalid,Electronics,208.10197615488585,1,,failed,1
+1668,  Bob Johnson  ,,Electronics,14.34300970559976,5,,,2
+1755,jane smith,alice@invalid,Clothing,59.92727015234663,2,15-03-2024,Paid,5
+1859,jane smith,jane@email.com,Electronics,21.56153267630927,9,2024-02-14,Refunded,1
+1155,Maria Garcia,alice@invalid,Electronics,211.4368452743462,1,2024-01-01,PAID,5
+1288,Maria Garcia,alice@invalid,,252.16409915264694,9,15-03-2024,Failed,1
+1603,  Bob Johnson  ,john@email.com,Home & Garden,288.99490697931856,4,15-03-2024,pending,3
+1570,Emma Wilson,bob@email.com,Electronics,305.4420094749361,5,,,2
+1744,Maria Garcia,jane@email.com,Clothing,10.065999572197807,7,2024/02/20,Refunded,2
+1018,Michael Brown  ,bob@email.com,Electronics,155.79874114622208,7,2023-11-20,,3
+1128,John Doe,,electronics,224.05684428143798,9,,Failed,4
+1323,  Bob Johnson  ,maria@email.com,Home & Garden,158.93373660795467,1,2023-11-20,paid,5
+1256,ALICE WONG,maria@email.com,home & garden,225.758475000491,2,2024-01-15,Unknown,4
+1658,ALICE WONG,john@email.com,home & garden,346.9838007909747,9,15-03-2024,Unknown,5
+1965,Emma Wilson,not-an-email,electronics,-16.07831641594064,-4,15-03-2024,pending,7
+1191,Emma Wilson,jane@email.com,Clothing,247.50118069372303,6,2024/02/20,failed,3
+1116,  Bob Johnson  ,,Clothing,137.05541184422913,1,2026-12-31,paid,5
+1617,John Doe,john@email.com,Home & Garden,397.3497991946937,6,2024-01-01,failed,5
+1607,Emma Wilson,alice@invalid,Electronics,29.335171116540664,8,,pending,3
+1181,Maria Garcia,,books,284.9991662584372,6,,Paid,5
+1302,John Doe,not-an-email,electronics,182.66372383873065,1,15-03-2024,Failed,1
+1760,Emma Wilson,bob@email.com,electronics,396.57691117024353,4,2024/02/20,Unknown,2
+1713,John Doe,alice@invalid,Books,243.4541233084579,1,15-03-2024,Paid,3
+1724,John Doe,,electronics,297.0737463422244,1,2023-11-20,Failed,3
+1686,,maria@email.com,Books,48.04817398908648,9,2024/02/20,PAID,5
+1980,,alice@invalid,Books,,,,paid,
+1518,,not-an-email,books,228.74556303677525,3,2024/02/20,Failed,4
+1985,Michael Brown  ,alice@invalid,Electronics,,,15-03-2024,Pending,
+1046,  Bob Johnson  ,jane@email.com,ELECTRONICS,479.4560052584963,4,2024-01-01,Refunded,2
+1910,,alice@invalid,,47.35721680704659,6,2024-02-14,paid,5
+1158,jane smith,alice@invalid,Electronics,20.693464419989855,4,2024-01-15,Failed,3
+1852,jane smith,not-an-email,clothing,180.56684065246117,9,2026-12-31,Unknown,1
+1172,Maria Garcia,bob@email.com,books,237.32691847728475,6,2024/02/20,Unknown,2
+1017,  Bob Johnson  ,alice@invalid,Home & Garden,259.0966679889772,4,2023-11-20,Failed,5
+1512,jane smith,jane@email.com,Books,349.3214850679204,9,,Pending,4
+1049,,maria@email.com,clothing,82.9551446628979,3,2024-01-15,Failed,3
+1972,Emma Wilson,,electronics,,,,failed,
+1941,  Bob Johnson  ,jane@email.com,,454.87040895201346,3,2023-11-20,,4
+1516,ALICE WONG,maria@email.com,Electronics,160.0936144013242,2,2024-02-14,paid,2
+1953,Maria Garcia,alice@invalid,Clothing,-43.49201024765736,-5,,Pending,8
+1481,  Bob Johnson  ,john@email.com,Electronics,44.793755621295176,1,2024-02-14,pending,5
+1284,Emma Wilson,not-an-email,Home & Garden,240.87227047707918,2,,failed,3
+1719,Michael Brown  ,jane@email.com,Home & Garden,327.4305485353589,8,15-03-2024,PAID,4
+1878,jane smith,not-an-email,Clothing,481.756491624071,2,2024-01-15,Unknown,2
+1226,jane smith,not-an-email,Books,61.68211297874899,7,2024-01-15,Paid,5
+1027,,bob@email.com,,130.87264361559528,9,2024-01-01,pending,1
+1955,ALICE WONG,alice@invalid,Home & Garden,-19.134923560855693,-2,,Pending,7
+1438,Michael Brown  ,john@email.com,clothing,62.93261952403878,6,2024-02-14,pending,4
+1952,  Bob Johnson  ,jane@email.com,Electronics,-23.33598083813523,-3,,Refunded,8
+1365,Emma Wilson,jane@email.com,home & garden,239.69630307760787,9,2024/02/20,PAID,1
+1230,Maria Garcia,not-an-email,clothing,390.04980695341044,6,2024-01-01,Paid,2
+1038,John Doe,maria@email.com,ELECTRONICS,184.1384386560123,7,2024-01-01,Paid,1
+1966,John Doe,john@email.com,Books,-20.845542309202123,-1,2026-12-31,Pending,8
+1375,John Doe,john@email.com,Home & Garden,300.6785693526183,2,2026-12-31,,2
+1470,  Bob Johnson  ,alice@invalid,home & garden,136.2275379635237,1,,Unknown,1
+1968,,jane@email.com,electronics,-32.85191916054266,-4,,paid,10
+1851,Emma Wilson,john@email.com,Books,263.8006585791637,8,2024-01-15,Failed,5
+1705,Maria Garcia,maria@email.com,books,154.6923420834922,8,,PAID,3
+1842,Michael Brown  ,john@email.com,Books,71.51960523370016,5,2023-11-20,Paid,4
+1195,Emma Wilson,not-an-email,clothing,337.82094529126306,8,2024-01-15,PAID,4
+1855,Emma Wilson,alice@invalid,home & garden,156.90225850696558,3,2026-12-31,Refunded,4
+1865,  Bob Johnson  ,john@email.com,electronics,158.4287071282644,4,,,1
+1504,Michael Brown  ,,Books,292.8279444999299,8,2024-01-01,paid,3
+1970,ALICE WONG,bob@email.com,Electronics,-30.76439413587964,-5,2024-01-01,Refunded,7
+1831,Maria Garcia,john@email.com,books,301.61452070378397,6,2024-01-01,paid,3
+1580,jane smith,,home & garden,281.3186278254255,2,15-03-2024,failed,4
+1969,,john@email.com,home & garden,-48.83320945418942,-5,2024-01-15,Unknown,10
+1163,Michael Brown  ,maria@email.com,electronics,35.606360850151646,4,2023-11-20,Pending,4
+1909,Emma Wilson,maria@email.com,books,343.01396304020284,9,2023-11-20,Paid,1
+1153,John Doe,bob@email.com,Electronics,78.23023184762162,1,15-03-2024,Failed,5
+1802,,,Books,115.71293279646252,6,2024-01-01,paid,1
+1994,  Bob Johnson  ,not-an-email,electronics,6989.183127510785,0,15-03-2024,PAID,
+1756,,john@email.com,home & garden,186.51462021220965,6,2024-01-15,pending,5
+1112,Emma Wilson,alice@invalid,Home & Garden,143.80469688667807,1,2026-12-31,failed,5
+1227,Maria Garcia,jane@email.com,Home & Garden,331.82225131490407,4,2024-01-01,Unknown,2
+1689,Emma Wilson,alice@invalid,electronics,42.34482362871837,6,,paid,5
+1104,  Bob Johnson  ,maria@email.com,electronics,290.2174129013214,4,2024-02-14,Refunded,2
+1422,jane smith,john@email.com,Home & Garden,241.52174395319165,1,15-03-2024,PAID,5
+1420,,not-an-email,electronics,134.65187461250503,7,2023-11-20,Pending,3
+1751,Michael Brown  ,not-an-email,ELECTRONICS,11.871762102705723,2,2024-01-15,Failed,3
+1587,,jane@email.com,books,105.36567998538725,9,2024-02-14,Pending,4
+1781,John Doe,,Books,61.62881190291967,8,,Refunded,5
+1673,,jane@email.com,Electronics,17.01448605685939,4,2023-11-20,Paid,1
+1120,Maria Garcia,jane@email.com,home & garden,101.18969474467589,4,2023-11-20,pending,3
+1054,  Bob Johnson  ,,Home & Garden,229.81920916772586,5,2024/02/20,Paid,2
+1152,ALICE WONG,jane@email.com,Clothing,454.15435213876134,1,2023-11-20,pending,1
+1404,John Doe,,Clothing,307.47389357218947,4,,Failed,5
+1946,Emma Wilson,not-an-email,,381.08200149587503,3,15-03-2024,Refunded,2
+1208,  Bob Johnson  ,maria@email.com,Electronics,90.70611318182499,1,2024-01-01,PAID,3
+1659,  Bob Johnson  ,bob@email.com,books,364.1264092721319,4,2024-02-14,Refunded,1
+1844,Emma Wilson,,clothing,387.37752376097706,3,2024-01-01,Unknown,1
+1763,Maria Garcia,john@email.com,home & garden,455.87214048865206,9,,Unknown,1
+1009,Emma Wilson,,,365.7301558927948,4,2024-01-01,Failed,5
+1808,John Doe,bob@email.com,ELECTRONICS,371.912754484842,7,2023-11-20,failed,1
+1037,  Bob Johnson  ,jane@email.com,clothing,102.13211996155391,7,2024-02-14,Pending,5
+1453,,jane@email.com,electronics,354.1067953555155,6,2023-11-20,failed,5
+1652,Michael Brown  ,jane@email.com,books,229.67633713101688,5,2023-11-20,Paid,2
+1254,Maria Garcia,john@email.com,Clothing,330.60335063923134,7,2024-01-15,paid,4
+1304,,not-an-email,books,240.93071202510063,4,2024-01-15,Failed,3
+1747,ALICE WONG,john@email.com,Clothing,145.32308333224074,1,2024-01-01,paid,4
+1572,ALICE WONG,jane@email.com,home & garden,492.1664499731275,6,2024-01-01,failed,3
+1624,jane smith,bob@email.com,electronics,236.71104648204283,6,2024-01-15,Paid,5
+1733,John Doe,,Electronics,264.8832472322681,9,2023-11-20,Unknown,2
+1892,Emma Wilson,maria@email.com,Home & Garden,137.3534398289881,2,15-03-2024,Refunded,2
+1263,Maria Garcia,bob@email.com,Home & Garden,214.70287984479884,7,2024-01-01,Pending,3
+1611,Maria Garcia,jane@email.com,electronics,482.37413511110174,6,2024-02-14,pending,4
+1298,Emma Wilson,not-an-email,home & garden,230.6719796636522,1,2026-12-31,PAID,2
+1415,ALICE WONG,bob@email.com,Electronics,304.31902260869435,7,15-03-2024,Pending,4
+1151,ALICE WONG,bob@email.com,electronics,40.700069693123716,3,2026-12-31,failed,2
+1789,Michael Brown  ,jane@email.com,Home & Garden,234.27280652805405,8,2024/02/20,paid,2
+1641,,alice@invalid,electronics,384.61861938081165,3,2026-12-31,Failed,4
+1890,John Doe,jane@email.com,Electronics,200.20119600222782,1,2023-11-20,paid,1
+1551,John Doe,john@email.com,books,78.87095411339678,9,2024-01-01,Failed,5
+1887,John Doe,john@email.com,home & garden,82.01172769822274,2,2024-01-01,Unknown,4
+1489,John Doe,,electronics,14.964280173594256,3,2024-01-15,failed,2
+1148,ALICE WONG,bob@email.com,Clothing,42.02941720654877,4,2026-12-31,pending,2
+1147,ALICE WONG,,Books,390.5881729080388,6,2024/02/20,Paid,4
+1721,jane smith,john@email.com,Clothing,445.44294933004534,4,2024-01-01,Refunded,2
+1932,  Bob Johnson  ,alice@invalid,Clothing,289.0744919878808,6,2024/02/20,Pending,2
+1740,  Bob Johnson  ,bob@email.com,Home & Garden,318.4832714769509,9,2026-12-31,PAID,2
+1660,jane smith,maria@email.com,Clothing,349.3408914531829,3,2026-12-31,failed,4
+1349,Michael Brown  ,,electronics,456.27737920551846,3,2024-02-14,pending,1
+1464,John Doe,bob@email.com,Books,413.6572882684344,3,2024-02-14,paid,1
+1326,,john@email.com,ELECTRONICS,436.8901963088955,2,2026-12-31,pending,2
+1187,jane smith,john@email.com,Electronics,356.83919764258667,4,2024/02/20,pending,5
+1124,Emma Wilson,alice@invalid,home & garden,75.40518648381246,5,,Unknown,5
+1854,ALICE WONG,bob@email.com,books,10.663276600579396,3,2024-01-01,Unknown,3
+1609,  Bob Johnson  ,jane@email.com,clothing,276.08204613925494,5,,Failed,4
+1144,Michael Brown  ,jane@email.com,Home & Garden,143.25536580302918,9,2026-12-31,Failed,2
+1959,jane smith,,books,-35.71882624119951,-2,15-03-2024,Paid,9
+1198,  Bob Johnson  ,alice@invalid,home & garden,328.97699890396757,7,2024-02-14,Failed,2
+1610,Michael Brown  ,,Clothing,121.5973706905727,6,,PAID,2
+1280,jane smith,alice@invalid,ELECTRONICS,411.3411217922115,1,15-03-2024,,1
+1294,jane smith,john@email.com,Clothing,59.31236447653133,6,2023-11-20,Pending,2
+1401,Michael Brown  ,alice@invalid,Home & Garden,304.94248119741445,4,15-03-2024,Failed,3
+1123,jane smith,maria@email.com,books,246.65474732182406,5,2024-02-14,Unknown,2
+1184,ALICE WONG,not-an-email,Clothing,431.46844974122314,3,2024-01-15,Failed,4
+1203,Emma Wilson,john@email.com,Home & Garden,235.02754002250944,3,2024-01-15,,5
+1439,Emma Wilson,john@email.com,electronics,176.04171817598828,9,2024/02/20,PAID,3
+1247,John Doe,maria@email.com,ELECTRONICS,454.01019483522555,9,2023-11-20,,3
+1416,John Doe,alice@invalid,,374.3610189265143,7,2024-01-01,,4
+1933,John Doe,maria@email.com,ELECTRONICS,137.17547375628425,2,2026-12-31,,5
+1766,ALICE WONG,alice@invalid,books,53.751867017530735,8,,failed,4
+1907,jane smith,john@email.com,Electronics,128.5277141153157,9,15-03-2024,Unknown,2
+1836,  Bob Johnson  ,jane@email.com,books,341.99571105488707,7,15-03-2024,Unknown,2
+1888,,bob@email.com,Electronics,407.45064726740077,6,2024-02-14,Pending,1
+1130,  Bob Johnson  ,not-an-email,electronics,385.1013205056438,4,2024-01-01,,3
+1638,Emma Wilson,bob@email.com,Home & Garden,490.5622783558804,3,2026-12-31,paid,5
+1403,ALICE WONG,not-an-email,clothing,227.25620704580197,3,2023-11-20,Unknown,1
+1785,jane smith,john@email.com,Books,186.4247282914794,2,2024/02/20,pending,1
+1771,Maria Garcia,bob@email.com,electronics,354.88997490082227,8,2024-01-15,Pending,3
+1736,ALICE WONG,not-an-email,electronics,142.99059641889005,4,,failed,5
+1914,jane smith,jane@email.com,books,277.8227995958245,9,2024-02-14,Paid,4
+1220,Emma Wilson,maria@email.com,Home & Garden,23.312036400524313,2,2024-02-14,paid,1
+1642,,jane@email.com,ELECTRONICS,291.0291862132309,6,2024/02/20,Failed,1
+1916,,jane@email.com,,31.510971895072508,9,15-03-2024,PAID,5
+1753,jane smith,john@email.com,Books,373.042987514515,2,2024/02/20,Paid,5
+1807,Michael Brown  ,jane@email.com,clothing,329.30348263386554,1,2024/02/20,Failed,3
+1920,Michael Brown  ,jane@email.com,Electronics,34.48972404324258,1,2023-11-20,,4
+1625,Maria Garcia,john@email.com,clothing,490.6838152997157,2,2023-11-20,failed,3
+1875,jane smith,,home & garden,394.7428761427201,1,2024-01-01,pending,5
+1761,  Bob Johnson  ,john@email.com,ELECTRONICS,447.01735095726,3,2024-01-15,Paid,5
+1387,ALICE WONG,maria@email.com,electronics,417.3730220489978,3,2024/02/20,Refunded,1
+1973,John Doe,not-an-email,books,,,2024-02-14,Paid,
+1510,jane smith,alice@invalid,Electronics,329.62290781005044,3,2023-11-20,Unknown,4
+1268,Michael Brown  ,alice@invalid,books,442.14460156927555,6,2024/02/20,Unknown,4
+1820,John Doe,john@email.com,clothing,141.12041159670602,9,2023-11-20,Unknown,2
+1442,Michael Brown  ,jane@email.com,Home & Garden,261.20718571864404,4,2024-02-14,Pending,2
+1497,ALICE WONG,bob@email.com,Home & Garden,42.55748373432969,9,15-03-2024,PAID,4
+1113,Michael Brown  ,alice@invalid,Home & Garden,263.85859545701953,7,2023-11-20,Refunded,2
+1692,,maria@email.com,ELECTRONICS,406.03525290451887,7,2024-01-15,,2
+1233,  Bob Johnson  ,maria@email.com,,266.43151928542324,7,15-03-2024,Refunded,3
+1870,,maria@email.com,Electronics,376.2477592323801,1,,,1
+1608,Michael Brown  ,not-an-email,home & garden,243.01755836854505,1,2024-01-01,pending,3
+1672,,,Clothing,154.36350420963464,1,2023-11-20,Failed,2
+1374,Michael Brown  ,,Books,337.2242947809392,5,2024/02/20,Pending,4
+1982,Michael Brown  ,bob@email.com,Clothing,,,2024/02/20,PAID,
+1843,John Doe,jane@email.com,books,18.304355795894686,3,15-03-2024,paid,4
+1234,  Bob Johnson  ,alice@invalid,,150.69759946144202,3,2024-01-01,Paid,2
+1786,John Doe,bob@email.com,Clothing,478.83190958730023,7,2024-02-14,Unknown,5
+1677,  Bob Johnson  ,john@email.com,,79.99664077741092,7,2024-02-14,Paid,2
+1318,John Doe,jane@email.com,electronics,350.1337810198172,9,,Failed,4
+1649,Michael Brown  ,not-an-email,books,447.6142005457533,3,2024/02/20,failed,3
+1411,ALICE WONG,not-an-email,clothing,198.41055054595816,5,2023-11-20,paid,1
+1899,Emma Wilson,bob@email.com,home & garden,40.47958082070435,3,2024-02-14,Refunded,4
+1710,Michael Brown  ,john@email.com,books,208.50032031850753,8,2023-11-20,,3
+1359,John Doe,,ELECTRONICS,65.16439130184914,9,2024/02/20,Failed,1
+1259,Michael Brown  ,not-an-email,Electronics,442.384020519596,2,2024-02-14,,1
+1745,ALICE WONG,not-an-email,books,260.4532782262426,5,2024-02-14,paid,2
+1628,,bob@email.com,electronics,298.4784458443467,1,2024/02/20,pending,2
+1633,Maria Garcia,alice@invalid,Books,199.40484834328365,3,15-03-2024,,4
+1283,,bob@email.com,Books,164.0315554600367,4,2024-02-14,PAID,3
+1377,  Bob Johnson  ,bob@email.com,,100.81178796907008,6,,Paid,5
+1385,Maria Garcia,alice@invalid,Home & Garden,265.5083876313588,1,2024-02-14,failed,2
+1225,jane smith,maria@email.com,Home & Garden,253.9281289368022,2,2026-12-31,pending,3
+1954,  Bob Johnson  ,bob@email.com,Clothing,-27.396587501889748,-3,2026-12-31,PAID,10
+1815,  Bob Johnson  ,not-an-email,Home & Garden,150.83070226813408,2,2026-12-31,Refunded,2
+1473,ALICE WONG,not-an-email,Electronics,346.42905761137735,8,2024/02/20,failed,5
+1348,  Bob Johnson  ,john@email.com,Clothing,153.18693292632992,8,15-03-2024,Pending,2
+1506,John Doe,alice@invalid,electronics,70.27161461063537,9,,PAID,3
+1640,Michael Brown  ,not-an-email,Home & Garden,415.4842718320885,5,2024/02/20,Pending,1
+1988,  Bob Johnson  ,not-an-email,ELECTRONICS,,,15-03-2024,Pending,
+1929,,john@email.com,,497.461454043316,7,15-03-2024,pending,4
+1906,jane smith,jane@email.com,,269.53326473335375,1,,Refunded,1
+1620,ALICE WONG,not-an-email,Clothing,145.1261084431649,8,2024-02-14,pending,5
+1856,Maria Garcia,jane@email.com,,326.7647834025859,1,2024-02-14,pending,5
+1804,John Doe,john@email.com,books,307.79853990383407,2,2024/02/20,Unknown,5
+1646,Maria Garcia,maria@email.com,ELECTRONICS,428.44136380815684,1,2024-02-14,Failed,4
+1847,jane smith,alice@invalid,books,140.13558814971697,6,2024-01-01,paid,3
+1557,Michael Brown  ,,clothing,29.108046161706678,4,2024-02-14,Paid,3
+1958,John Doe,maria@email.com,home & garden,-49.63846123682831,-3,,paid,10
+1578,,alice@invalid,,275.2897276003167,2,2023-11-20,paid,3
+1796,Emma Wilson,alice@invalid,electronics,412.8681445400474,9,2026-12-31,Unknown,5
+1086,ALICE WONG,jane@email.com,electronics,225.6975089981904,5,2024-01-15,paid,2
+1243,  Bob Johnson  ,jane@email.com,Books,350.9905679027132,1,2026-12-31,paid,1
+1699,jane smith,,Clothing,255.30589135450472,1,2026-12-31,Pending,2
+1160,  Bob Johnson  ,john@email.com,home & garden,482.0632727646397,2,2023-11-20,Unknown,3
+1525,jane smith,john@email.com,ELECTRONICS,295.2773858311158,8,2023-11-20,paid,2
+1036,Maria Garcia,bob@email.com,Books,311.83287062748775,7,2023-11-20,Failed,2
+1541,Emma Wilson,jane@email.com,Home & Garden,45.13882553534899,6,2024-01-15,,4
+1171,Michael Brown  ,alice@invalid,home & garden,287.01182474008885,3,2024-02-14,Failed,4
+1655,,alice@invalid,Clothing,463.92747729774254,4,2026-12-31,Pending,4
+1891,Emma Wilson,john@email.com,,340.32384481267087,7,2026-12-31,Paid,5
+1858,ALICE WONG,jane@email.com,clothing,425.05980522211075,4,2023-11-20,Failed,5
+1848,jane smith,alice@invalid,electronics,18.600658049648167,6,2024-01-01,failed,1
+1945,Maria Garcia,john@email.com,,488.8808749158368,5,2024-01-15,failed,2
+1734,Michael Brown  ,bob@email.com,books,80.00922105631174,3,2026-12-31,Paid,2
+1096,,not-an-email,Electronics,324.85694777224387,5,2024-01-01,Refunded,4
+1564,Emma Wilson,maria@email.com,ELECTRONICS,151.72993826660073,6,,pending,4
+1241,jane smith,bob@email.com,Home & Garden,271.1841449506086,9,2026-12-31,pending,2
+1743,jane smith,,ELECTRONICS,165.61752967794718,4,2024-01-01,PAID,5
+1575,Emma Wilson,bob@email.com,home & garden,200.84612850218596,8,2026-12-31,Failed,5
+1691,jane smith,,Electronics,64.38906840774428,1,2024-01-15,failed,2
+1461,jane smith,maria@email.com,,359.87599578875967,7,2024-01-01,pending,3
+1554,  Bob Johnson  ,bob@email.com,Clothing,257.67300777612047,9,,Refunded,3
+1889,  Bob Johnson  ,john@email.com,Home & Garden,321.61780651022696,2,2023-11-20,pending,2
+1207,Michael Brown  ,alice@invalid,Home & Garden,136.724209095139,1,2024/02/20,Pending,5
+1393,Michael Brown  ,jane@email.com,,416.3505316652102,6,2024-01-01,PAID,4
+1795,John Doe,bob@email.com,clothing,214.0871716329007,7,,failed,1
+1398,,jane@email.com,Books,165.30382801764844,2,15-03-2024,paid,2
+1767,Maria Garcia,not-an-email,Clothing,346.63944058658893,8,2024/02/20,failed,5
+1849,Emma Wilson,,clothing,153.7212192824767,8,,Refunded,5
+1218,Maria Garcia,maria@email.com,ELECTRONICS,492.64493150902877,8,2023-11-20,failed,1
+1005,ALICE WONG,john@email.com,clothing,469.32015258358825,7,15-03-2024,paid,5
+1769,  Bob Johnson  ,jane@email.com,clothing,199.94791467326706,8,2024/02/20,failed,5
+1643,Michael Brown  ,john@email.com,books,478.4631003698472,6,2024-01-15,Failed,2
+1930,John Doe,alice@invalid,home & garden,358.7441748155639,8,2024-01-15,Failed,4
+1613,  Bob Johnson  ,john@email.com,ELECTRONICS,363.85018537339386,3,2024-01-15,Unknown,4
+1739,Maria Garcia,jane@email.com,electronics,75.57589786984964,7,2024-01-15,Failed,1
+1547,Maria Garcia,john@email.com,Books,116.76735158494515,1,2024/02/20,Failed,3
+1726,Maria Garcia,jane@email.com,books,45.17014505099139,4,,PAID,4
+1684,  Bob Johnson  ,not-an-email,ELECTRONICS,53.41630984514274,7,,Unknown,5
+1099,,not-an-email,ELECTRONICS,394.96929285931367,5,2026-12-31,,2
+1805,,bob@email.com,ELECTRONICS,154.69772401019807,3,2023-11-20,Paid,2
+1728,ALICE WONG,jane@email.com,clothing,128.5465233546095,7,2024-01-01,Unknown,1
+1574,jane smith,john@email.com,books,480.95638784972056,8,15-03-2024,paid,3
+1407,,john@email.com,Home & Garden,354.290548811903,4,2024-01-15,Unknown,5
+1503,Maria Garcia,,ELECTRONICS,248.14024196082548,8,2023-11-20,,1
+1048,Emma Wilson,alice@invalid,Books,170.19649200565877,9,2024/02/20,Refunded,5
+1033,  Bob Johnson  ,maria@email.com,Clothing,109.97746096816043,3,2023-11-20,Failed,2
+1780,ALICE WONG,jane@email.com,Home & Garden,156.04558223332714,6,,Failed,3
+1840,Maria Garcia,not-an-email,ELECTRONICS,265.4350633505281,6,,,4
+1201,Emma Wilson,john@email.com,ELECTRONICS,261.12629789746256,7,2026-12-31,PAID,5
+1135,Emma Wilson,maria@email.com,Electronics,331.90802657089836,8,2023-11-20,pending,1
+1028,jane smith,maria@email.com,,365.9662404053724,4,,pending,3
+1881,Maria Garcia,,ELECTRONICS,120.43682132331526,8,15-03-2024,paid,2
+1231,,alice@invalid,clothing,482.5935604113977,7,2026-12-31,Refunded,5
+1490,Maria Garcia,maria@email.com,Books,321.6870627406757,7,2024/02/20,PAID,3
+1773,John Doe,jane@email.com,ELECTRONICS,91.80701348612737,1,2023-11-20,PAID,2
+1379,jane smith,john@email.com,Home & Garden,127.35998325567367,4,2026-12-31,Refunded,5
+1289,John Doe,alice@invalid,,415.842133694237,5,,PAID,4
+1419,Michael Brown  ,jane@email.com,Clothing,44.75678590554898,1,2024-01-01,Unknown,5
+1675,  Bob Johnson  ,bob@email.com,clothing,418.7308525303311,9,2024-02-14,failed,2
+1392,ALICE WONG,,,337.90812883965845,6,,Unknown,4
+1593,Maria Garcia,alice@invalid,Books,180.1657491249487,4,2024/02/20,paid,3
+1499,John Doe,alice@invalid,electronics,79.64719065879426,5,15-03-2024,Refunded,4
+1139,Emma Wilson,bob@email.com,ELECTRONICS,148.27166659966807,7,,Unknown,2
+1063,Maria Garcia,bob@email.com,Electronics,184.1915751162651,4,2024-01-15,Failed,4
+1472,Michael Brown  ,john@email.com,electronics,305.8597719452,3,2024/02/20,Unknown,4
+1648,John Doe,jane@email.com,Books,425.01473856145964,7,15-03-2024,paid,5
+1129,  Bob Johnson  ,john@email.com,Clothing,367.4590320396744,3,15-03-2024,,1
+1977,Michael Brown  ,jane@email.com,home & garden,,,15-03-2024,PAID,
+1521,Michael Brown  ,jane@email.com,Home & Garden,430.20554545402905,8,15-03-2024,Paid,1
+1839,  Bob Johnson  ,not-an-email,Clothing,388.7315261192964,6,2026-12-31,PAID,2
+1963,,,Clothing,-41.11696517226718,-3,15-03-2024,paid,7
+1065,Emma Wilson,bob@email.com,ELECTRONICS,55.56541351333476,2,15-03-2024,Unknown,2
+1813,John Doe,not-an-email,electronics,107.61548469808602,4,2024-01-01,paid,5
+1015,Michael Brown  ,not-an-email,Electronics,275.69623069100567,1,2024/02/20,,3
+1157,Emma Wilson,alice@invalid,Books,450.91833938676353,3,2026-12-31,paid,5
+1041,ALICE WONG,alice@invalid,Home & Garden,12.562510636027241,5,2024-02-14,Failed,5
+1493,John Doe,bob@email.com,Home & Garden,438.11231079850904,5,15-03-2024,PAID,3
+1380,John Doe,john@email.com,Clothing,399.3433565630932,6,2024-02-14,Paid,3
+1188,Emma Wilson,bob@email.com,,276.3337264978966,7,2026-12-31,Unknown,2
+1764,jane smith,not-an-email,Books,194.8858464419645,8,2023-11-20,Paid,5
+1217,  Bob Johnson  ,,home & garden,231.10727864868417,6,2023-11-20,failed,5
+1792,Michael Brown  ,bob@email.com,clothing,191.20849543371654,7,,failed,4
+1053,ALICE WONG,not-an-email,Electronics,190.4716699483557,3,2023-11-20,PAID,1
+1879,Maria Garcia,not-an-email,electronics,47.04646990220788,7,2026-12-31,pending,3
+1338,ALICE WONG,,Clothing,277.85762789201635,8,15-03-2024,Pending,4
+1749,John Doe,not-an-email,books,40.71791459471427,3,2026-12-31,Pending,1
+1720,  Bob Johnson  ,jane@email.com,clothing,70.23113244803992,6,2024-01-15,Failed,3
+1725,John Doe,alice@invalid,,316.1440927668072,4,2024/02/20,Pending,3
+1296,  Bob Johnson  ,not-an-email,home & garden,79.56627498288701,2,2023-11-20,pending,3
+1702,Michael Brown  ,bob@email.com,books,34.61074561734715,2,2024/02/20,Unknown,5
+1252,John Doe,jane@email.com,Books,100.2701712266328,1,2024-01-01,Pending,4
+1727,ALICE WONG,maria@email.com,Electronics,344.4824383994672,7,2024-01-01,Refunded,1
+1462,Maria Garcia,alice@invalid,Books,307.87355490444486,7,2024/02/20,failed,4
+1456,ALICE WONG,maria@email.com,,144.61844750456456,3,2024-01-15,failed,3
+1997,John Doe,john@email.com,,5224.556494978079,0,15-03-2024,pending,
+1816,Maria Garcia,jane@email.com,books,190.21513400051492,9,,Refunded,4
+1863,jane smith,john@email.com,clothing,234.41792191175003,7,2024-01-01,Paid,4
+1270,ALICE WONG,bob@email.com,Books,89.49436883341488,3,2024-01-15,paid,1
+1202,Michael Brown  ,maria@email.com,Electronics,405.13777244409135,3,2024-02-14,,5
+1162,John Doe,maria@email.com,electronics,469.043006396215,3,2024-01-15,Unknown,2
+1556,Michael Brown  ,not-an-email,Clothing,198.26128936304212,7,2024-01-01,pending,3
+1730,  Bob Johnson  ,maria@email.com,Clothing,413.0420492482564,5,2024-01-01,Paid,4
+1402,  Bob Johnson  ,john@email.com,Electronics,447.33641207787457,3,2024-01-15,pending,1
+1703,John Doe,not-an-email,home & garden,45.72189933027272,1,2024/02/20,Refunded,5
+1477,John Doe,jane@email.com,Electronics,190.83598066284912,3,2026-12-31,PAID,5
+1822,  Bob Johnson  ,bob@email.com,ELECTRONICS,17.199760440927385,2,,failed,1
+1772,Maria Garcia,bob@email.com,electronics,12.138002128651452,7,2024/02/20,failed,2
+1106,jane smith,maria@email.com,Electronics,100.39336403548329,8,2024/02/20,PAID,3
+1566,jane smith,maria@email.com,home & garden,66.90809049825755,7,2026-12-31,Pending,1
+1390,John Doe,not-an-email,clothing,55.990069563444536,9,2026-12-31,Refunded,5
+1002,  Bob Johnson  ,maria@email.com,Home & Garden,96.94009704015636,3,2024-02-14,Unknown,3
+1938,Maria Garcia,,clothing,490.77714001352433,8,2026-12-31,Unknown,1
+1983,  Bob Johnson  ,bob@email.com,clothing,,,2024/02/20,paid,
+1562,ALICE WONG,maria@email.com,clothing,380.54467083558666,7,2026-12-31,Paid,5
+1081,Emma Wilson,john@email.com,home & garden,173.7767761610698,9,2023-11-20,Failed,2
+1206,Maria Garcia,not-an-email,,108.66825324662744,8,2024-02-14,Pending,3
+1035,,alice@invalid,Clothing,369.20493505454067,3,2024-02-14,Pending,2
+1776,Maria Garcia,alice@invalid,electronics,483.36327751305186,5,,paid,3
+1509,Michael Brown  ,,ELECTRONICS,367.2950088992295,3,2024-02-14,failed,5
+1428,  Bob Johnson  ,not-an-email,ELECTRONICS,246.20011847492043,7,,Pending,3
+1455,Maria Garcia,maria@email.com,books,74.42966875001099,1,2024-02-14,,4
+1367,,bob@email.com,Clothing,303.1951673059018,8,2024-01-01,pending,5
+1092,  Bob Johnson  ,alice@invalid,electronics,303.130394091232,6,2024-01-15,Pending,2
+1340,  Bob Johnson  ,not-an-email,electronics,488.6321609702231,3,2024-01-15,Refunded,4
+1898,  Bob Johnson  ,maria@email.com,electronics,356.78346163108847,8,2024-01-01,,4
+1565,  Bob Johnson  ,alice@invalid,,451.0407596780756,1,2026-12-31,PAID,2
+1346,Emma Wilson,john@email.com,clothing,147.21829147973983,3,2023-11-20,Paid,5
+1777,John Doe,not-an-email,home & garden,382.9085172228837,6,2024/02/20,Paid,1
+1242,Emma Wilson,jane@email.com,Electronics,87.39786318932052,8,15-03-2024,Refunded,3
+1014,ALICE WONG,bob@email.com,Home & Garden,369.0727569354628,2,2024-01-15,,1
+1316,Michael Brown  ,maria@email.com,electronics,146.8452833426611,4,2024-02-14,Refunded,5
+1601,Maria Garcia,not-an-email,,441.35423345297426,6,2024/02/20,paid,4
+1388,Emma Wilson,john@email.com,ELECTRONICS,303.4994690068332,6,2023-11-20,Failed,2
+1274,Michael Brown  ,maria@email.com,electronics,362.4832749608877,5,2026-12-31,PAID,2
+1167,Michael Brown  ,,books,490.8355743436509,2,15-03-2024,paid,4
+1841,Emma Wilson,bob@email.com,books,488.24677340681467,8,2026-12-31,Refunded,5
+1993,jane smith,bob@email.com,Home & Garden,6444.424694545828,0,2023-11-20,failed,
+1647,Maria Garcia,jane@email.com,home & garden,225.18341015053667,4,,Paid,1
+1819,  Bob Johnson  ,alice@invalid,ELECTRONICS,262.77233232904075,7,2024-02-14,PAID,2
+1485,Maria Garcia,maria@email.com,clothing,337.60059689422786,1,2024-01-01,,2
+1981,  Bob Johnson  ,maria@email.com,Clothing,,,2023-11-20,Pending,
+1505,Emma Wilson,jane@email.com,electronics,31.432145431384207,1,2024-01-15,Pending,1
+1832,Maria Garcia,alice@invalid,Clothing,14.862672352639459,3,15-03-2024,Pending,5
+1244,John Doe,not-an-email,Home & Garden,398.69806171474465,2,2024-01-15,paid,5
+1567,jane smith,bob@email.com,Clothing,478.4002261881064,3,2026-12-31,PAID,4
+1876,ALICE WONG,,Clothing,495.7506717664681,8,2024-02-14,paid,3
+1563,Emma Wilson,not-an-email,Clothing,234.67627435212643,9,,PAID,2
+1687,,bob@email.com,electronics,209.6960852058911,9,2024-02-14,failed,3
+1190,,,clothing,234.56731434904165,8,2024-02-14,Unknown,4
+1783,Michael Brown  ,not-an-email,Clothing,325.6331185231988,7,2024-01-01,Paid,2
+1700,ALICE WONG,bob@email.com,clothing,399.31261680046686,2,2024/02/20,paid,3
+1476,Michael Brown  ,jane@email.com,,233.55588938821558,2,15-03-2024,Unknown,3
+1682,Maria Garcia,maria@email.com,Books,424.5015054420887,5,2024-02-14,Unknown,4
+1511,John Doe,not-an-email,,424.34613786505435,6,2024/02/20,paid,4
+1059,ALICE WONG,not-an-email,home & garden,212.18470201582562,4,15-03-2024,PAID,4
+1475,ALICE WONG,not-an-email,,198.08105269203995,2,15-03-2024,PAID,3
+1561,  Bob Johnson  ,john@email.com,Clothing,21.442527200811096,3,2024-02-14,Refunded,1
+1857,ALICE WONG,john@email.com,books,487.355277470015,5,2024-01-01,pending,2
+1748,Emma Wilson,jane@email.com,electronics,356.41847885330094,1,2023-11-20,Paid,5
+1253,  Bob Johnson  ,maria@email.com,Books,448.0549579038565,1,2024/02/20,Refunded,1
+1022,Maria Garcia,jane@email.com,home & garden,321.7827634498316,1,2023-11-20,Refunded,2
+1314,Emma Wilson,bob@email.com,books,121.3179829415223,2,2023-11-20,pending,1
+1460,ALICE WONG,not-an-email,books,454.72939125271193,9,2024-01-15,PAID,1
+1161,Emma Wilson,maria@email.com,,284.48240989630256,1,2024/02/20,Paid,2
+1277,John Doe,maria@email.com,books,368.43328026677756,3,,pending,5
+1956,ALICE WONG,jane@email.com,Home & Garden,-30.044173418562323,-4,2024-01-15,Pending,9
+1192,ALICE WONG,not-an-email,Books,91.22952468000511,3,2024-02-14,Unknown,4
+1386,Michael Brown  ,not-an-email,Home & Garden,41.18404555045475,7,2023-11-20,PAID,1
+1806,  Bob Johnson  ,maria@email.com,ELECTRONICS,76.93444278907458,8,2024-01-01,failed,5
+1414,John Doe,bob@email.com,Electronics,475.76021576723974,9,2024-01-01,Refunded,4
+1492,Maria Garcia,bob@email.com,Electronics,310.1609994889614,7,2024-01-01,Paid,2
+1344,jane smith,alice@invalid,Clothing,372.5530191757959,2,2023-11-20,Unknown,2
+1770,John Doe,jane@email.com,ELECTRONICS,320.02882058681445,8,2023-11-20,paid,2
+1309,Michael Brown  ,john@email.com,books,169.3009675615325,6,2024-01-01,failed,1
+1662,ALICE WONG,alice@invalid,clothing,156.7038383021238,8,2024/02/20,Failed,2
+1131,  Bob Johnson  ,john@email.com,books,87.86500215798324,1,2023-11-20,Failed,2
+1664,,jane@email.com,Clothing,404.17423176295745,7,,failed,2
+1872,Michael Brown  ,alice@invalid,Clothing,38.343780229108695,4,2023-11-20,Pending,3
+1100,Maria Garcia,not-an-email,home & garden,67.98473355245979,9,2024-01-15,PAID,1
+1373,jane smith,jane@email.com,clothing,427.6092984516789,2,2023-11-20,Paid,3
+1088,John Doe,jane@email.com,Books,170.81444926856267,3,2024-01-01,Paid,5
+1459,ALICE WONG,,Electronics,211.40032688011743,2,2024/02/20,Unknown,2
+1331,John Doe,john@email.com,Electronics,454.52556504585664,5,2024/02/20,,2
+1215,ALICE WONG,alice@invalid,clothing,436.58342827254336,9,15-03-2024,pending,4
+1467,Michael Brown  ,john@email.com,books,10.766901543821723,8,2024-01-15,Paid,1
+1122,Maria Garcia,not-an-email,ELECTRONICS,234.5115745015674,9,2024-02-14,Paid,5
+1615,,john@email.com,books,436.2848882273656,8,15-03-2024,Paid,1
+1021,,jane@email.com,Clothing,437.9282287717958,5,,Pending,4
+1701,jane smith,not-an-email,Home & Garden,356.47237386068207,4,2024-02-14,pending,1
+1072,jane smith,john@email.com,clothing,284.72344626392373,7,2024/02/20,Paid,2
+1107,,maria@email.com,Books,187.4953664096213,6,2024-01-01,Pending,2
+1271,,jane@email.com,books,16.17768478812193,4,2024-01-15,paid,5
+1861,  Bob Johnson  ,john@email.com,home & garden,393.7672225163267,5,2024-01-15,,3
+1436,Michael Brown  ,john@email.com,home & garden,117.34371645991031,3,2024-01-15,PAID,3
+1103,jane smith,john@email.com,,198.07814644719156,6,2026-12-31,Pending,2
+1667,,jane@email.com,,479.14952932866714,3,2024/02/20,,3
+1130,  Bob Johnson  ,not-an-email,electronics,385.1013205056438,4,2024-01-01,,3
+1785,jane smith,john@email.com,Books,186.4247282914794,2,2024/02/20,pending,1
+1153,John Doe,bob@email.com,Electronics,78.23023184762162,1,15-03-2024,Failed,5
+1921,Maria Garcia,bob@email.com,ELECTRONICS,423.38833538539365,8,15-03-2024,PAID,4
+1946,Emma Wilson,not-an-email,,381.08200149587503,3,15-03-2024,Refunded,2
+1049,,maria@email.com,clothing,82.9551446628979,3,2024-01-15,Failed,3
+1016,Maria Garcia,jane@email.com,clothing,299.2703683247987,4,2024/02/20,Pending,2
+1773,John Doe,jane@email.com,ELECTRONICS,91.80701348612737,1,2023-11-20,PAID,2
+1121,Michael Brown  ,jane@email.com,Home & Garden,403.2952217998981,4,,failed,2
+1171,Michael Brown  ,alice@invalid,home & garden,287.01182474008885,3,2024-02-14,Failed,4
+1653,Emma Wilson,not-an-email,,260.1119196120738,3,15-03-2024,,4
+1027,,bob@email.com,,130.87264361559528,9,2024-01-01,pending,1
+1806,  Bob Johnson  ,maria@email.com,ELECTRONICS,76.93444278907458,8,2024-01-01,failed,5
+1274,Michael Brown  ,maria@email.com,electronics,362.4832749608877,5,2026-12-31,PAID,2
+1997,John Doe,john@email.com,,5224.556494978079,0,15-03-2024,pending,
+1588,ALICE WONG,alice@invalid,Books,38.24731527752219,3,,Paid,5
+1188,Emma Wilson,bob@email.com,,276.3337264978966,7,2026-12-31,Unknown,2
+1692,,maria@email.com,ELECTRONICS,406.03525290451887,7,2024-01-15,,2
+1213,Maria Garcia,john@email.com,books,440.1367382945,1,2024-01-01,PAID,1
+1127,jane smith,jane@email.com,books,253.26596465409688,1,2026-12-31,Failed,2
+1487,ALICE WONG,,home & garden,187.34079551055385,5,2024/02/20,Pending,3
+1706,Maria Garcia,jane@email.com,Electronics,123.86831829746345,6,,,4
+1204,John Doe,not-an-email,,35.45872300159152,2,2024-01-15,failed,5
+1066,jane smith,jane@email.com,ELECTRONICS,298.21911080471136,9,,Failed,4
+1032,John Doe,jane@email.com,Clothing,402.0347746625882,5,2023-11-20,Failed,4
+1352,John Doe,jane@email.com,Books,18.823212244222702,7,2024-01-15,Paid,2
+1459,ALICE WONG,,Electronics,211.40032688011743,2,2024/02/20,Unknown,2
+1270,ALICE WONG,bob@email.com,Books,89.49436883341488,3,2024-01-15,paid,1
+1832,Maria Garcia,alice@invalid,Clothing,14.862672352639459,3,15-03-2024,Pending,5
+1553,Maria Garcia,bob@email.com,Home & Garden,23.49299273603809,8,2024-02-14,failed,3
+1073,John Doe,not-an-email,electronics,305.70895663226287,5,2024-02-14,paid,4
+1158,jane smith,alice@invalid,Electronics,20.693464419989855,4,2024-01-15,Failed,3
+1883,ALICE WONG,bob@email.com,Clothing,78.99344495741128,5,,,2
+1170,,alice@invalid,ELECTRONICS,107.06784005227266,8,,paid,5
+1614,jane smith,maria@email.com,Clothing,271.3594480950277,5,2024-02-14,Paid,5
+1652,Michael Brown  ,jane@email.com,books,229.67633713101688,5,2023-11-20,Paid,2
+1809,,john@email.com,electronics,164.6573984440415,7,2024/02/20,Unknown,3
+1863,jane smith,john@email.com,clothing,234.41792191175003,7,2024-01-01,Paid,4
+1821,Emma Wilson,alice@invalid,Home & Garden,419.38531061367524,3,2026-12-31,paid,1
+1712,jane smith,bob@email.com,,167.53289361146216,5,15-03-2024,,2
+1765,Maria Garcia,not-an-email,ELECTRONICS,482.398424080153,8,2024-01-15,Refunded,3
+1582,John Doe,jane@email.com,,383.3318881763863,3,,PAID,5
+1414,John Doe,bob@email.com,Electronics,475.76021576723974,9,2024-01-01,Refunded,4
+1156,jane smith,alice@invalid,home & garden,180.19822986683292,1,2026-12-31,failed,3
+1604,,john@email.com,home & garden,314.1236351140462,5,2024-01-01,Refunded,3
+1428,  Bob Johnson  ,not-an-email,ELECTRONICS,246.20011847492043,7,,Pending,3
+1128,John Doe,,electronics,224.05684428143798,9,,Failed,4
+1616,ALICE WONG,,home & garden,74.01964847349683,2,15-03-2024,Unknown,1
+1930,John Doe,alice@invalid,home & garden,358.7441748155639,8,2024-01-15,Failed,4
